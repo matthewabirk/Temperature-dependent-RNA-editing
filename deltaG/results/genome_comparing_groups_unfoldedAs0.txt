@@ -1,0 +1,45 @@
+
+
+folding results - genome sequnceces summary:
+
+
+sites that wasn't in dsRNA in the first calculated stracture(assigned ΔG=0)
+
+  cold10_genome_sites_400.fasta:
+		286.15K: 415/1640 = 0.253
+		295.15K: 424/1640 = 0.259
+
+  cold_genome_sites_400.fasta:
+		286.15K: 5482/20850 = 0.263
+		295.15K: 5660/20850 = 0.271
+
+  insen_genome_sites_400.fasta:
+		286.15K: 10899/41022 = 0.266
+		295.15K: 11002/41022 = 0.268
+
+  warm_genome_sites_400.fasta:
+		286.15K: 230/789 = 0.292
+		295.15K: 226/789 = 0.286
+
+
+mean ΔG for dsRNA around edting site:
+
+  cold10_genome_sites_400.fasta:
+		286.15K: -19.918, std:22.423
+		295.15K: -17.098, std:19.424
+			 means diff: -2.821
+
+  cold_genome_sites_400.fasta:
+		286.15K: -18.663, std:20.441
+		295.15K: -15.892, std:17.678
+			 means diff: -2.771
+
+  insen_genome_sites_400.fasta:
+		286.15K: -19.766, std:23.921
+		295.15K: -16.943, std:20.785
+			 means diff: -2.823
+
+  warm_genome_sites_400.fasta:
+		286.15K: -20.906, std:32.385
+		295.15K: -17.530, std:28.045
+			 means diff: -3.376

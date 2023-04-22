@@ -1,0 +1,875 @@
+# Ocbimv22031404m Length: 906
+# Ocbimv22031404m Number of predicted TMHs:  0
+# Ocbimv22031404m Exp number of AAs in TMHs: 0.02271
+# Ocbimv22031404m Exp number, first 60 AAs:  0
+# Ocbimv22031404m Total prob of N-in:        0.00009
+Ocbimv22031404m	TMHMM2.0	outside	     1   906
+
+# Ocbimv22038859m Length: 1890
+# Ocbimv22038859m Number of predicted TMHs:  0
+# Ocbimv22038859m Exp number of AAs in TMHs: 30.22788
+# Ocbimv22038859m Exp number, first 60 AAs:  0.00149
+# Ocbimv22038859m Total prob of N-in:        0.01107
+Ocbimv22038859m	TMHMM2.0	outside	     1  1890
+
+# Ocbimv22025952m Length: 214
+# Ocbimv22025952m Number of predicted TMHs:  0
+# Ocbimv22025952m Exp number of AAs in TMHs: 0.0006
+# Ocbimv22025952m Exp number, first 60 AAs:  0
+# Ocbimv22025952m Total prob of N-in:        0.11857
+Ocbimv22025952m	TMHMM2.0	outside	     1   214
+
+# Ocbimv22021366m Length: 3018
+# Ocbimv22021366m Number of predicted TMHs:  0
+# Ocbimv22021366m Exp number of AAs in TMHs: 0.00705999999999999999
+# Ocbimv22021366m Exp number, first 60 AAs:  0.00385
+# Ocbimv22021366m Total prob of N-in:        0.00035
+Ocbimv22021366m	TMHMM2.0	outside	     1  3018
+
+# Ocbimv22014728m Length: 464
+# Ocbimv22014728m Number of predicted TMHs:  0
+# Ocbimv22014728m Exp number of AAs in TMHs: 0.65471
+# Ocbimv22014728m Exp number, first 60 AAs:  0
+# Ocbimv22014728m Total prob of N-in:        0.00233
+Ocbimv22014728m	TMHMM2.0	outside	     1   464
+
+# Ocbimv22019105m Length: 264
+# Ocbimv22019105m Number of predicted TMHs:  0
+# Ocbimv22019105m Exp number of AAs in TMHs: 0.79628
+# Ocbimv22019105m Exp number, first 60 AAs:  0
+# Ocbimv22019105m Total prob of N-in:        0.23117
+Ocbimv22019105m	TMHMM2.0	outside	     1   264
+
+# Ocbimv22035445m Length: 581
+# Ocbimv22035445m Number of predicted TMHs:  0
+# Ocbimv22035445m Exp number of AAs in TMHs: 0.00174
+# Ocbimv22035445m Exp number, first 60 AAs:  0
+# Ocbimv22035445m Total prob of N-in:        0.00094
+Ocbimv22035445m	TMHMM2.0	outside	     1   581
+
+# Ocbimv22011004m Length: 1144
+# Ocbimv22011004m Number of predicted TMHs:  0
+# Ocbimv22011004m Exp number of AAs in TMHs: 0.97013
+# Ocbimv22011004m Exp number, first 60 AAs:  0.00015
+# Ocbimv22011004m Total prob of N-in:        0.01034
+Ocbimv22011004m	TMHMM2.0	outside	     1  1144
+
+# Ocbimv22028679m Length: 578
+# Ocbimv22028679m Number of predicted TMHs:  0
+# Ocbimv22028679m Exp number of AAs in TMHs: 0.00496
+# Ocbimv22028679m Exp number, first 60 AAs:  0.00076
+# Ocbimv22028679m Total prob of N-in:        0.00248
+Ocbimv22028679m	TMHMM2.0	outside	     1   578
+
+# Ocbimv22029832m Length: 495
+# Ocbimv22029832m Number of predicted TMHs:  12
+# Ocbimv22029832m Exp number of AAs in TMHs: 260.17899
+# Ocbimv22029832m Exp number, first 60 AAs:  24.98644
+# Ocbimv22029832m Total prob of N-in:        0.94847
+# Ocbimv22029832m POSSIBLE N-term signal sequence
+Ocbimv22029832m	TMHMM2.0	inside	     1    20
+Ocbimv22029832m	TMHMM2.0	TMhelix	    21    44
+Ocbimv22029832m	TMHMM2.0	outside	    45    58
+Ocbimv22029832m	TMHMM2.0	TMhelix	    59    81
+Ocbimv22029832m	TMHMM2.0	inside	    82    87
+Ocbimv22029832m	TMHMM2.0	TMhelix	    88   110
+Ocbimv22029832m	TMHMM2.0	outside	   111   113
+Ocbimv22029832m	TMHMM2.0	TMhelix	   114   136
+Ocbimv22029832m	TMHMM2.0	inside	   137   147
+Ocbimv22029832m	TMHMM2.0	TMhelix	   148   170
+Ocbimv22029832m	TMHMM2.0	outside	   171   173
+Ocbimv22029832m	TMHMM2.0	TMhelix	   174   196
+Ocbimv22029832m	TMHMM2.0	inside	   197   220
+Ocbimv22029832m	TMHMM2.0	TMhelix	   221   243
+Ocbimv22029832m	TMHMM2.0	outside	   244   252
+Ocbimv22029832m	TMHMM2.0	TMhelix	   253   275
+Ocbimv22029832m	TMHMM2.0	inside	   276   287
+Ocbimv22029832m	TMHMM2.0	TMhelix	   288   307
+Ocbimv22029832m	TMHMM2.0	outside	   308   311
+Ocbimv22029832m	TMHMM2.0	TMhelix	   312   334
+Ocbimv22029832m	TMHMM2.0	inside	   335   346
+Ocbimv22029832m	TMHMM2.0	TMhelix	   347   369
+Ocbimv22029832m	TMHMM2.0	outside	   370   373
+Ocbimv22029832m	TMHMM2.0	TMhelix	   374   396
+Ocbimv22029832m	TMHMM2.0	inside	   397   495
+
+# Ocbimv22001928m Length: 590
+# Ocbimv22001928m Number of predicted TMHs:  0
+# Ocbimv22001928m Exp number of AAs in TMHs: 0.00073
+# Ocbimv22001928m Exp number, first 60 AAs:  0.00054
+# Ocbimv22001928m Total prob of N-in:        0.00019
+Ocbimv22001928m	TMHMM2.0	outside	     1   590
+
+# Ocbimv22026272m Length: 468
+# Ocbimv22026272m Number of predicted TMHs:  0
+# Ocbimv22026272m Exp number of AAs in TMHs: 0.68734
+# Ocbimv22026272m Exp number, first 60 AAs:  0
+# Ocbimv22026272m Total prob of N-in:        0.02620
+Ocbimv22026272m	TMHMM2.0	outside	     1   468
+
+# Ocbimv22015513m Length: 598
+# Ocbimv22015513m Number of predicted TMHs:  5
+# Ocbimv22015513m Exp number of AAs in TMHs: 137.48753
+# Ocbimv22015513m Exp number, first 60 AAs:  0.02607
+# Ocbimv22015513m Total prob of N-in:        0.08390
+Ocbimv22015513m	TMHMM2.0	outside	     1   337
+Ocbimv22015513m	TMHMM2.0	TMhelix	   338   355
+Ocbimv22015513m	TMHMM2.0	inside	   356   417
+Ocbimv22015513m	TMHMM2.0	TMhelix	   418   440
+Ocbimv22015513m	TMHMM2.0	outside	   441   449
+Ocbimv22015513m	TMHMM2.0	TMhelix	   450   472
+Ocbimv22015513m	TMHMM2.0	inside	   473   476
+Ocbimv22015513m	TMHMM2.0	TMhelix	   477   496
+Ocbimv22015513m	TMHMM2.0	outside	   497   565
+Ocbimv22015513m	TMHMM2.0	TMhelix	   566   588
+Ocbimv22015513m	TMHMM2.0	inside	   589   598
+
+# Ocbimv22005132m Length: 715
+# Ocbimv22005132m Number of predicted TMHs:  7
+# Ocbimv22005132m Exp number of AAs in TMHs: 153.52136
+# Ocbimv22005132m Exp number, first 60 AAs:  0
+# Ocbimv22005132m Total prob of N-in:        0.00763
+Ocbimv22005132m	TMHMM2.0	outside	     1   428
+Ocbimv22005132m	TMHMM2.0	TMhelix	   429   451
+Ocbimv22005132m	TMHMM2.0	inside	   452   463
+Ocbimv22005132m	TMHMM2.0	TMhelix	   464   481
+Ocbimv22005132m	TMHMM2.0	outside	   482   495
+Ocbimv22005132m	TMHMM2.0	TMhelix	   496   518
+Ocbimv22005132m	TMHMM2.0	inside	   519   530
+Ocbimv22005132m	TMHMM2.0	TMhelix	   531   553
+Ocbimv22005132m	TMHMM2.0	outside	   554   572
+Ocbimv22005132m	TMHMM2.0	TMhelix	   573   595
+Ocbimv22005132m	TMHMM2.0	inside	   596   611
+Ocbimv22005132m	TMHMM2.0	TMhelix	   612   634
+Ocbimv22005132m	TMHMM2.0	outside	   635   643
+Ocbimv22005132m	TMHMM2.0	TMhelix	   644   666
+Ocbimv22005132m	TMHMM2.0	inside	   667   715
+
+# Ocbimv22034044m Length: 607
+# Ocbimv22034044m Number of predicted TMHs:  0
+# Ocbimv22034044m Exp number of AAs in TMHs: 0.01687
+# Ocbimv22034044m Exp number, first 60 AAs:  0
+# Ocbimv22034044m Total prob of N-in:        0.00040
+Ocbimv22034044m	TMHMM2.0	outside	     1   607
+
+# Ocbimv22005038m Length: 247
+# Ocbimv22005038m Number of predicted TMHs:  1
+# Ocbimv22005038m Exp number of AAs in TMHs: 18.19135
+# Ocbimv22005038m Exp number, first 60 AAs:  16.93895
+# Ocbimv22005038m Total prob of N-in:        0.79328
+# Ocbimv22005038m POSSIBLE N-term signal sequence
+Ocbimv22005038m	TMHMM2.0	inside	     1    19
+Ocbimv22005038m	TMHMM2.0	TMhelix	    20    42
+Ocbimv22005038m	TMHMM2.0	outside	    43   247
+
+# Ocbimv22020480m Length: 1458
+# Ocbimv22020480m Number of predicted TMHs:  0
+# Ocbimv22020480m Exp number of AAs in TMHs: 3.09406
+# Ocbimv22020480m Exp number, first 60 AAs:  0
+# Ocbimv22020480m Total prob of N-in:        0.15624
+Ocbimv22020480m	TMHMM2.0	outside	     1  1458
+
+# Ocbimv22031333m Length: 524
+# Ocbimv22031333m Number of predicted TMHs:  0
+# Ocbimv22031333m Exp number of AAs in TMHs: 0.00036
+# Ocbimv22031333m Exp number, first 60 AAs:  0.00019
+# Ocbimv22031333m Total prob of N-in:        0.00103
+Ocbimv22031333m	TMHMM2.0	outside	     1   524
+
+# Ocbimv22035763m Length: 845
+# Ocbimv22035763m Number of predicted TMHs:  1
+# Ocbimv22035763m Exp number of AAs in TMHs: 28.93827
+# Ocbimv22035763m Exp number, first 60 AAs:  3.27327
+# Ocbimv22035763m Total prob of N-in:        0.15341
+Ocbimv22035763m	TMHMM2.0	outside	     1   692
+Ocbimv22035763m	TMHMM2.0	TMhelix	   693   715
+Ocbimv22035763m	TMHMM2.0	inside	   716   845
+
+# Ocbimv22011510m Length: 2532
+# Ocbimv22011510m Number of predicted TMHs:  0
+# Ocbimv22011510m Exp number of AAs in TMHs: 0.20672
+# Ocbimv22011510m Exp number, first 60 AAs:  0
+# Ocbimv22011510m Total prob of N-in:        0.01071
+Ocbimv22011510m	TMHMM2.0	outside	     1  2532
+
+# Ocbimv22012339m Length: 619
+# Ocbimv22012339m Number of predicted TMHs:  0
+# Ocbimv22012339m Exp number of AAs in TMHs: 0.56407
+# Ocbimv22012339m Exp number, first 60 AAs:  0.02557
+# Ocbimv22012339m Total prob of N-in:        0.01484
+Ocbimv22012339m	TMHMM2.0	outside	     1   619
+
+# Ocbimv22031186m Length: 547
+# Ocbimv22031186m Number of predicted TMHs:  2
+# Ocbimv22031186m Exp number of AAs in TMHs: 45.87478
+# Ocbimv22031186m Exp number, first 60 AAs:  0.00568
+# Ocbimv22031186m Total prob of N-in:        0.00446
+Ocbimv22031186m	TMHMM2.0	outside	     1   263
+Ocbimv22031186m	TMHMM2.0	TMhelix	   264   286
+Ocbimv22031186m	TMHMM2.0	inside	   287   329
+Ocbimv22031186m	TMHMM2.0	TMhelix	   330   352
+Ocbimv22031186m	TMHMM2.0	outside	   353   547
+
+# Ocbimv22021054m Length: 542
+# Ocbimv22021054m Number of predicted TMHs:  0
+# Ocbimv22021054m Exp number of AAs in TMHs: 0.02062
+# Ocbimv22021054m Exp number, first 60 AAs:  0.02062
+# Ocbimv22021054m Total prob of N-in:        0.00117
+Ocbimv22021054m	TMHMM2.0	outside	     1   542
+
+# Ocbimv22023714m Length: 846
+# Ocbimv22023714m Number of predicted TMHs:  0
+# Ocbimv22023714m Exp number of AAs in TMHs: 0.04388
+# Ocbimv22023714m Exp number, first 60 AAs:  0
+# Ocbimv22023714m Total prob of N-in:        0.00183
+Ocbimv22023714m	TMHMM2.0	outside	     1   846
+
+# Ocbimv22017652m Length: 881
+# Ocbimv22017652m Number of predicted TMHs:  7
+# Ocbimv22017652m Exp number of AAs in TMHs: 165.18041
+# Ocbimv22017652m Exp number, first 60 AAs:  7.47166
+# Ocbimv22017652m Total prob of N-in:        0.33937
+Ocbimv22017652m	TMHMM2.0	outside	     1    80
+Ocbimv22017652m	TMHMM2.0	TMhelix	    81   103
+Ocbimv22017652m	TMHMM2.0	inside	   104   114
+Ocbimv22017652m	TMHMM2.0	TMhelix	   115   137
+Ocbimv22017652m	TMHMM2.0	outside	   138   151
+Ocbimv22017652m	TMHMM2.0	TMhelix	   152   174
+Ocbimv22017652m	TMHMM2.0	inside	   175   194
+Ocbimv22017652m	TMHMM2.0	TMhelix	   195   217
+Ocbimv22017652m	TMHMM2.0	outside	   218   246
+Ocbimv22017652m	TMHMM2.0	TMhelix	   247   269
+Ocbimv22017652m	TMHMM2.0	inside	   270   805
+Ocbimv22017652m	TMHMM2.0	TMhelix	   806   828
+Ocbimv22017652m	TMHMM2.0	outside	   829   842
+Ocbimv22017652m	TMHMM2.0	TMhelix	   843   862
+Ocbimv22017652m	TMHMM2.0	inside	   863   881
+
+# Ocbimv22039027m Length: 939
+# Ocbimv22039027m Number of predicted TMHs:  1
+# Ocbimv22039027m Exp number of AAs in TMHs: 25.11977
+# Ocbimv22039027m Exp number, first 60 AAs:  0.32522
+# Ocbimv22039027m Total prob of N-in:        0.01762
+Ocbimv22039027m	TMHMM2.0	outside	     1   690
+Ocbimv22039027m	TMHMM2.0	TMhelix	   691   713
+Ocbimv22039027m	TMHMM2.0	inside	   714   939
+
+# Ocbimv22015207m Length: 1040
+# Ocbimv22015207m Number of predicted TMHs:  0
+# Ocbimv22015207m Exp number of AAs in TMHs: 3.03304
+# Ocbimv22015207m Exp number, first 60 AAs:  2.88782
+# Ocbimv22015207m Total prob of N-in:        0.13908
+Ocbimv22015207m	TMHMM2.0	outside	     1  1040
+
+# Ocbimv22028795m Length: 433
+# Ocbimv22028795m Number of predicted TMHs:  0
+# Ocbimv22028795m Exp number of AAs in TMHs: 0.00445
+# Ocbimv22028795m Exp number, first 60 AAs:  0.00226
+# Ocbimv22028795m Total prob of N-in:        0.00404
+Ocbimv22028795m	TMHMM2.0	outside	     1   433
+
+# Ocbimv22025734m Length: 2298
+# Ocbimv22025734m Number of predicted TMHs:  1
+# Ocbimv22025734m Exp number of AAs in TMHs: 29.40467
+# Ocbimv22025734m Exp number, first 60 AAs:  0.00036
+# Ocbimv22025734m Total prob of N-in:        0.01350
+Ocbimv22025734m	TMHMM2.0	outside	     1  2050
+Ocbimv22025734m	TMHMM2.0	TMhelix	  2051  2073
+Ocbimv22025734m	TMHMM2.0	inside	  2074  2298
+
+# Ocbimv22001378m Length: 496
+# Ocbimv22001378m Number of predicted TMHs:  10
+# Ocbimv22001378m Exp number of AAs in TMHs: 219.9532
+# Ocbimv22001378m Exp number, first 60 AAs:  10.25542
+# Ocbimv22001378m Total prob of N-in:        0.77377
+# Ocbimv22001378m POSSIBLE N-term signal sequence
+Ocbimv22001378m	TMHMM2.0	inside	     1    50
+Ocbimv22001378m	TMHMM2.0	TMhelix	    51    73
+Ocbimv22001378m	TMHMM2.0	outside	    74   112
+Ocbimv22001378m	TMHMM2.0	TMhelix	   113   135
+Ocbimv22001378m	TMHMM2.0	inside	   136   143
+Ocbimv22001378m	TMHMM2.0	TMhelix	   144   161
+Ocbimv22001378m	TMHMM2.0	outside	   162   170
+Ocbimv22001378m	TMHMM2.0	TMhelix	   171   193
+Ocbimv22001378m	TMHMM2.0	inside	   194   205
+Ocbimv22001378m	TMHMM2.0	TMhelix	   206   225
+Ocbimv22001378m	TMHMM2.0	outside	   226   269
+Ocbimv22001378m	TMHMM2.0	TMhelix	   270   292
+Ocbimv22001378m	TMHMM2.0	inside	   293   340
+Ocbimv22001378m	TMHMM2.0	TMhelix	   341   363
+Ocbimv22001378m	TMHMM2.0	outside	   364   366
+Ocbimv22001378m	TMHMM2.0	TMhelix	   367   389
+Ocbimv22001378m	TMHMM2.0	inside	   390   397
+Ocbimv22001378m	TMHMM2.0	TMhelix	   398   420
+Ocbimv22001378m	TMHMM2.0	outside	   421   434
+Ocbimv22001378m	TMHMM2.0	TMhelix	   435   457
+Ocbimv22001378m	TMHMM2.0	inside	   458   496
+
+# Ocbimv22038589m Length: 1061
+# Ocbimv22038589m Number of predicted TMHs:  2
+# Ocbimv22038589m Exp number of AAs in TMHs: 43.32063
+# Ocbimv22038589m Exp number, first 60 AAs:  0.00062
+# Ocbimv22038589m Total prob of N-in:        0.27106
+Ocbimv22038589m	TMHMM2.0	outside	     1   433
+Ocbimv22038589m	TMHMM2.0	TMhelix	   434   456
+Ocbimv22038589m	TMHMM2.0	inside	   457   579
+Ocbimv22038589m	TMHMM2.0	TMhelix	   580   599
+Ocbimv22038589m	TMHMM2.0	outside	   600  1061
+
+# Ocbimv22034100m Length: 344
+# Ocbimv22034100m Number of predicted TMHs:  0
+# Ocbimv22034100m Exp number of AAs in TMHs: 0.20446
+# Ocbimv22034100m Exp number, first 60 AAs:  0.20446
+# Ocbimv22034100m Total prob of N-in:        0.01045
+Ocbimv22034100m	TMHMM2.0	outside	     1   344
+
+# Ocbimv22004787m Length: 1383
+# Ocbimv22004787m Number of predicted TMHs:  0
+# Ocbimv22004787m Exp number of AAs in TMHs: 0.08585
+# Ocbimv22004787m Exp number, first 60 AAs:  0.01029
+# Ocbimv22004787m Total prob of N-in:        0.00141
+Ocbimv22004787m	TMHMM2.0	outside	     1  1383
+
+# Ocbimv22003478m Length: 624
+# Ocbimv22003478m Number of predicted TMHs:  1
+# Ocbimv22003478m Exp number of AAs in TMHs: 22.85335
+# Ocbimv22003478m Exp number, first 60 AAs:  1e-05
+# Ocbimv22003478m Total prob of N-in:        0.96244
+Ocbimv22003478m	TMHMM2.0	inside	     1    66
+Ocbimv22003478m	TMHMM2.0	TMhelix	    67    89
+Ocbimv22003478m	TMHMM2.0	outside	    90   624
+
+# Ocbimv22003487m Length: 721
+# Ocbimv22003487m Number of predicted TMHs:  0
+# Ocbimv22003487m Exp number of AAs in TMHs: 16.58531
+# Ocbimv22003487m Exp number, first 60 AAs:  7.5271
+# Ocbimv22003487m Total prob of N-in:        0.30812
+Ocbimv22003487m	TMHMM2.0	outside	     1   721
+
+# Ocbimv22018092m Length: 1552
+# Ocbimv22018092m Number of predicted TMHs:  1
+# Ocbimv22018092m Exp number of AAs in TMHs: 23.88457
+# Ocbimv22018092m Exp number, first 60 AAs:  0
+# Ocbimv22018092m Total prob of N-in:        0.00004
+Ocbimv22018092m	TMHMM2.0	outside	     1  1506
+Ocbimv22018092m	TMHMM2.0	TMhelix	  1507  1526
+Ocbimv22018092m	TMHMM2.0	inside	  1527  1552
+
+# Ocbimv22000303m Length: 1045
+# Ocbimv22000303m Number of predicted TMHs:  10
+# Ocbimv22000303m Exp number of AAs in TMHs: 214.80475
+# Ocbimv22000303m Exp number, first 60 AAs:  0
+# Ocbimv22000303m Total prob of N-in:        0.02216
+Ocbimv22000303m	TMHMM2.0	outside	     1   443
+Ocbimv22000303m	TMHMM2.0	TMhelix	   444   466
+Ocbimv22000303m	TMHMM2.0	inside	   467   478
+Ocbimv22000303m	TMHMM2.0	TMhelix	   479   501
+Ocbimv22000303m	TMHMM2.0	outside	   502   528
+Ocbimv22000303m	TMHMM2.0	TMhelix	   529   551
+Ocbimv22000303m	TMHMM2.0	inside	   552   563
+Ocbimv22000303m	TMHMM2.0	TMhelix	   564   581
+Ocbimv22000303m	TMHMM2.0	outside	   582   644
+Ocbimv22000303m	TMHMM2.0	TMhelix	   645   667
+Ocbimv22000303m	TMHMM2.0	inside	   668   679
+Ocbimv22000303m	TMHMM2.0	TMhelix	   680   702
+Ocbimv22000303m	TMHMM2.0	outside	   703   733
+Ocbimv22000303m	TMHMM2.0	TMhelix	   734   753
+Ocbimv22000303m	TMHMM2.0	inside	   754   773
+Ocbimv22000303m	TMHMM2.0	TMhelix	   774   796
+Ocbimv22000303m	TMHMM2.0	outside	   797   833
+Ocbimv22000303m	TMHMM2.0	TMhelix	   834   853
+Ocbimv22000303m	TMHMM2.0	inside	   854   859
+Ocbimv22000303m	TMHMM2.0	TMhelix	   860   879
+Ocbimv22000303m	TMHMM2.0	outside	   880  1045
+
+# Ocbimv22012904m Length: 411
+# Ocbimv22012904m Number of predicted TMHs:  0
+# Ocbimv22012904m Exp number of AAs in TMHs: 0.00163
+# Ocbimv22012904m Exp number, first 60 AAs:  0
+# Ocbimv22012904m Total prob of N-in:        0.01404
+Ocbimv22012904m	TMHMM2.0	outside	     1   411
+
+# Ocbimv22004401m Length: 270
+# Ocbimv22004401m Number of predicted TMHs:  1
+# Ocbimv22004401m Exp number of AAs in TMHs: 24.65193
+# Ocbimv22004401m Exp number, first 60 AAs:  22.22417
+# Ocbimv22004401m Total prob of N-in:        0.62037
+# Ocbimv22004401m POSSIBLE N-term signal sequence
+Ocbimv22004401m	TMHMM2.0	inside	     1    28
+Ocbimv22004401m	TMHMM2.0	TMhelix	    29    51
+Ocbimv22004401m	TMHMM2.0	outside	    52   270
+
+# Ocbimv22005164m Length: 1358
+# Ocbimv22005164m Number of predicted TMHs:  7
+# Ocbimv22005164m Exp number of AAs in TMHs: 153.69834
+# Ocbimv22005164m Exp number, first 60 AAs:  0.29673
+# Ocbimv22005164m Total prob of N-in:        0.01647
+Ocbimv22005164m	TMHMM2.0	outside	     1   739
+Ocbimv22005164m	TMHMM2.0	TMhelix	   740   762
+Ocbimv22005164m	TMHMM2.0	inside	   763   774
+Ocbimv22005164m	TMHMM2.0	TMhelix	   775   792
+Ocbimv22005164m	TMHMM2.0	outside	   793   806
+Ocbimv22005164m	TMHMM2.0	TMhelix	   807   829
+Ocbimv22005164m	TMHMM2.0	inside	   830   840
+Ocbimv22005164m	TMHMM2.0	TMhelix	   841   860
+Ocbimv22005164m	TMHMM2.0	outside	   861   879
+Ocbimv22005164m	TMHMM2.0	TMhelix	   880   902
+Ocbimv22005164m	TMHMM2.0	inside	   903   950
+Ocbimv22005164m	TMHMM2.0	TMhelix	   951   970
+Ocbimv22005164m	TMHMM2.0	outside	   971   979
+Ocbimv22005164m	TMHMM2.0	TMhelix	   980  1002
+Ocbimv22005164m	TMHMM2.0	inside	  1003  1358
+
+# Ocbimv22000751m Length: 421
+# Ocbimv22000751m Number of predicted TMHs:  4
+# Ocbimv22000751m Exp number of AAs in TMHs: 90.84948
+# Ocbimv22000751m Exp number, first 60 AAs:  0.00148
+# Ocbimv22000751m Total prob of N-in:        0.17209
+Ocbimv22000751m	TMHMM2.0	outside	     1   137
+Ocbimv22000751m	TMHMM2.0	TMhelix	   138   160
+Ocbimv22000751m	TMHMM2.0	inside	   161   166
+Ocbimv22000751m	TMHMM2.0	TMhelix	   167   189
+Ocbimv22000751m	TMHMM2.0	outside	   190   203
+Ocbimv22000751m	TMHMM2.0	TMhelix	   204   223
+Ocbimv22000751m	TMHMM2.0	inside	   224   376
+Ocbimv22000751m	TMHMM2.0	TMhelix	   377   399
+Ocbimv22000751m	TMHMM2.0	outside	   400   421
+
+# Ocbimv22000512m Length: 517
+# Ocbimv22000512m Number of predicted TMHs:  5
+# Ocbimv22000512m Exp number of AAs in TMHs: 130.04111
+# Ocbimv22000512m Exp number, first 60 AAs:  0
+# Ocbimv22000512m Total prob of N-in:        0.47478
+Ocbimv22000512m	TMHMM2.0	inside	     1   119
+Ocbimv22000512m	TMHMM2.0	TMhelix	   120   142
+Ocbimv22000512m	TMHMM2.0	outside	   143   145
+Ocbimv22000512m	TMHMM2.0	TMhelix	   146   177
+Ocbimv22000512m	TMHMM2.0	inside	   178   334
+Ocbimv22000512m	TMHMM2.0	TMhelix	   335   357
+Ocbimv22000512m	TMHMM2.0	outside	   358   397
+Ocbimv22000512m	TMHMM2.0	TMhelix	   398   420
+Ocbimv22000512m	TMHMM2.0	inside	   421   493
+Ocbimv22000512m	TMHMM2.0	TMhelix	   494   516
+Ocbimv22000512m	TMHMM2.0	outside	   517   517
+
+# Ocbimv22021053m Length: 423
+# Ocbimv22021053m Number of predicted TMHs:  0
+# Ocbimv22021053m Exp number of AAs in TMHs: 0.00038
+# Ocbimv22021053m Exp number, first 60 AAs:  0
+# Ocbimv22021053m Total prob of N-in:        0.00944
+Ocbimv22021053m	TMHMM2.0	outside	     1   423
+
+# Ocbimv22039302m Length: 305
+# Ocbimv22039302m Number of predicted TMHs:  0
+# Ocbimv22039302m Exp number of AAs in TMHs: 0.00819
+# Ocbimv22039302m Exp number, first 60 AAs:  0
+# Ocbimv22039302m Total prob of N-in:        0.02238
+Ocbimv22039302m	TMHMM2.0	outside	     1   305
+
+# Ocbimv22014532m Length: 176
+# Ocbimv22014532m Number of predicted TMHs:  0
+# Ocbimv22014532m Exp number of AAs in TMHs: 0.00906
+# Ocbimv22014532m Exp number, first 60 AAs:  0.00195
+# Ocbimv22014532m Total prob of N-in:        0.18716
+Ocbimv22014532m	TMHMM2.0	outside	     1   176
+
+# Ocbimv22003711m Length: 638
+# Ocbimv22003711m Number of predicted TMHs:  0
+# Ocbimv22003711m Exp number of AAs in TMHs: 8.90023999999999998
+# Ocbimv22003711m Exp number, first 60 AAs:  8.81641
+# Ocbimv22003711m Total prob of N-in:        0.43335
+Ocbimv22003711m	TMHMM2.0	outside	     1   638
+
+# Ocbimv22017088m Length: 872
+# Ocbimv22017088m Number of predicted TMHs:  0
+# Ocbimv22017088m Exp number of AAs in TMHs: 0.00335
+# Ocbimv22017088m Exp number, first 60 AAs:  0
+# Ocbimv22017088m Total prob of N-in:        0.00005
+Ocbimv22017088m	TMHMM2.0	outside	     1   872
+
+# Ocbimv22028502m Length: 11387
+# Ocbimv22028502m Number of predicted TMHs:  0
+# Ocbimv22028502m Exp number of AAs in TMHs: 0.22261
+# Ocbimv22028502m Exp number, first 60 AAs:  0.2139
+# Ocbimv22028502m Total prob of N-in:        0.01070
+Ocbimv22028502m	TMHMM2.0	outside	     1 11387
+
+# Ocbimv22024144m Length: 1096
+# Ocbimv22024144m Number of predicted TMHs:  0
+# Ocbimv22024144m Exp number of AAs in TMHs: 0.00108
+# Ocbimv22024144m Exp number, first 60 AAs:  0
+# Ocbimv22024144m Total prob of N-in:        0.00001
+Ocbimv22024144m	TMHMM2.0	outside	     1  1096
+
+# Ocbimv22033103m Length: 4336
+# Ocbimv22033103m Number of predicted TMHs:  1
+# Ocbimv22033103m Exp number of AAs in TMHs: 31.82182
+# Ocbimv22033103m Exp number, first 60 AAs:  7.94408
+# Ocbimv22033103m Total prob of N-in:        0.38369
+Ocbimv22033103m	TMHMM2.0	outside	     1  4229
+Ocbimv22033103m	TMHMM2.0	TMhelix	  4230  4252
+Ocbimv22033103m	TMHMM2.0	inside	  4253  4336
+
+# Ocbimv22021738m Length: 2716
+# Ocbimv22021738m Number of predicted TMHs:  1
+# Ocbimv22021738m Exp number of AAs in TMHs: 23.09049
+# Ocbimv22021738m Exp number, first 60 AAs:  0.00165
+# Ocbimv22021738m Total prob of N-in:        0.00039
+Ocbimv22021738m	TMHMM2.0	outside	     1  2294
+Ocbimv22021738m	TMHMM2.0	TMhelix	  2295  2317
+Ocbimv22021738m	TMHMM2.0	inside	  2318  2716
+
+# Ocbimv22031571m Length: 1334
+# Ocbimv22031571m Number of predicted TMHs:  0
+# Ocbimv22031571m Exp number of AAs in TMHs: 0.11326
+# Ocbimv22031571m Exp number, first 60 AAs:  0
+# Ocbimv22031571m Total prob of N-in:        0.00175
+Ocbimv22031571m	TMHMM2.0	outside	     1  1334
+
+# Ocbimv22009305m Length: 563
+# Ocbimv22009305m Number of predicted TMHs:  4
+# Ocbimv22009305m Exp number of AAs in TMHs: 105.42278
+# Ocbimv22009305m Exp number, first 60 AAs:  14.20239
+# Ocbimv22009305m Total prob of N-in:        0.54548
+# Ocbimv22009305m POSSIBLE N-term signal sequence
+Ocbimv22009305m	TMHMM2.0	outside	     1   239
+Ocbimv22009305m	TMHMM2.0	TMhelix	   240   262
+Ocbimv22009305m	TMHMM2.0	inside	   263   268
+Ocbimv22009305m	TMHMM2.0	TMhelix	   269   291
+Ocbimv22009305m	TMHMM2.0	outside	   292   300
+Ocbimv22009305m	TMHMM2.0	TMhelix	   301   323
+Ocbimv22009305m	TMHMM2.0	inside	   324   517
+Ocbimv22009305m	TMHMM2.0	TMhelix	   518   540
+Ocbimv22009305m	TMHMM2.0	outside	   541   563
+
+# Ocbimv22024899m Length: 345
+# Ocbimv22024899m Number of predicted TMHs:  0
+# Ocbimv22024899m Exp number of AAs in TMHs: 15.0273
+# Ocbimv22024899m Exp number, first 60 AAs:  0
+# Ocbimv22024899m Total prob of N-in:        0.52771
+Ocbimv22024899m	TMHMM2.0	outside	     1   345
+
+# Ocbimv22022071m Length: 458
+# Ocbimv22022071m Number of predicted TMHs:  4
+# Ocbimv22022071m Exp number of AAs in TMHs: 91.4935400000000001
+# Ocbimv22022071m Exp number, first 60 AAs:  22.85474
+# Ocbimv22022071m Total prob of N-in:        0.99994
+# Ocbimv22022071m POSSIBLE N-term signal sequence
+Ocbimv22022071m	TMHMM2.0	inside	     1    19
+Ocbimv22022071m	TMHMM2.0	TMhelix	    20    42
+Ocbimv22022071m	TMHMM2.0	outside	    43   151
+Ocbimv22022071m	TMHMM2.0	TMhelix	   152   174
+Ocbimv22022071m	TMHMM2.0	inside	   175   180
+Ocbimv22022071m	TMHMM2.0	TMhelix	   181   203
+Ocbimv22022071m	TMHMM2.0	outside	   204   326
+Ocbimv22022071m	TMHMM2.0	TMhelix	   327   349
+Ocbimv22022071m	TMHMM2.0	inside	   350   458
+
+# Ocbimv22025704m Length: 1330
+# Ocbimv22025704m Number of predicted TMHs:  0
+# Ocbimv22025704m Exp number of AAs in TMHs: 0.12784
+# Ocbimv22025704m Exp number, first 60 AAs:  0.00019
+# Ocbimv22025704m Total prob of N-in:        0.00015
+Ocbimv22025704m	TMHMM2.0	outside	     1  1330
+
+# Ocbimv22013995m Length: 259
+# Ocbimv22013995m Number of predicted TMHs:  0
+# Ocbimv22013995m Exp number of AAs in TMHs: 0.00683
+# Ocbimv22013995m Exp number, first 60 AAs:  0.00663
+# Ocbimv22013995m Total prob of N-in:        0.08184
+Ocbimv22013995m	TMHMM2.0	outside	     1   259
+
+# Ocbimv22013609m Length: 1588
+# Ocbimv22013609m Number of predicted TMHs:  0
+# Ocbimv22013609m Exp number of AAs in TMHs: 0.06385
+# Ocbimv22013609m Exp number, first 60 AAs:  0.01303
+# Ocbimv22013609m Total prob of N-in:        0.00086
+Ocbimv22013609m	TMHMM2.0	outside	     1  1588
+
+# Ocbimv22010888m Length: 1195
+# Ocbimv22010888m Number of predicted TMHs:  1
+# Ocbimv22010888m Exp number of AAs in TMHs: 22.04265
+# Ocbimv22010888m Exp number, first 60 AAs:  0.49629
+# Ocbimv22010888m Total prob of N-in:        0.02575
+Ocbimv22010888m	TMHMM2.0	outside	     1  1171
+Ocbimv22010888m	TMHMM2.0	TMhelix	  1172  1194
+Ocbimv22010888m	TMHMM2.0	inside	  1195  1195
+
+# Ocbimv22038558m Length: 376
+# Ocbimv22038558m Number of predicted TMHs:  0
+# Ocbimv22038558m Exp number of AAs in TMHs: 0.27999
+# Ocbimv22038558m Exp number, first 60 AAs:  0.0004
+# Ocbimv22038558m Total prob of N-in:        0.07237
+Ocbimv22038558m	TMHMM2.0	outside	     1   376
+
+# Ocbimv22036546m Length: 378
+# Ocbimv22036546m Number of predicted TMHs:  6
+# Ocbimv22036546m Exp number of AAs in TMHs: 130.20884
+# Ocbimv22036546m Exp number, first 60 AAs:  22.71426
+# Ocbimv22036546m Total prob of N-in:        0.88395
+# Ocbimv22036546m POSSIBLE N-term signal sequence
+Ocbimv22036546m	TMHMM2.0	inside	     1    31
+Ocbimv22036546m	TMHMM2.0	TMhelix	    32    54
+Ocbimv22036546m	TMHMM2.0	outside	    55   134
+Ocbimv22036546m	TMHMM2.0	TMhelix	   135   157
+Ocbimv22036546m	TMHMM2.0	inside	   158   168
+Ocbimv22036546m	TMHMM2.0	TMhelix	   169   191
+Ocbimv22036546m	TMHMM2.0	outside	   192   271
+Ocbimv22036546m	TMHMM2.0	TMhelix	   272   294
+Ocbimv22036546m	TMHMM2.0	inside	   295   298
+Ocbimv22036546m	TMHMM2.0	TMhelix	   299   321
+Ocbimv22036546m	TMHMM2.0	outside	   322   335
+Ocbimv22036546m	TMHMM2.0	TMhelix	   336   358
+Ocbimv22036546m	TMHMM2.0	inside	   359   378
+
+# Ocbimv22023609m Length: 522
+# Ocbimv22023609m Number of predicted TMHs:  0
+# Ocbimv22023609m Exp number of AAs in TMHs: 0.05187
+# Ocbimv22023609m Exp number, first 60 AAs:  0.03474
+# Ocbimv22023609m Total prob of N-in:        0.00157
+Ocbimv22023609m	TMHMM2.0	outside	     1   522
+
+# Ocbimv22033718m Length: 588
+# Ocbimv22033718m Number of predicted TMHs:  0
+# Ocbimv22033718m Exp number of AAs in TMHs: 1.95969
+# Ocbimv22033718m Exp number, first 60 AAs:  1.93908
+# Ocbimv22033718m Total prob of N-in:        0.09173
+Ocbimv22033718m	TMHMM2.0	outside	     1   588
+
+# Ocbimv22016974m Length: 300
+# Ocbimv22016974m Number of predicted TMHs:  0
+# Ocbimv22016974m Exp number of AAs in TMHs: 0.05332
+# Ocbimv22016974m Exp number, first 60 AAs:  0
+# Ocbimv22016974m Total prob of N-in:        0.02833
+Ocbimv22016974m	TMHMM2.0	outside	     1   300
+
+# Ocbimv22036000m Length: 643
+# Ocbimv22036000m Number of predicted TMHs:  0
+# Ocbimv22036000m Exp number of AAs in TMHs: 4.77593
+# Ocbimv22036000m Exp number, first 60 AAs:  0
+# Ocbimv22036000m Total prob of N-in:        0.20923
+Ocbimv22036000m	TMHMM2.0	outside	     1   643
+
+# Ocbimv22002829m Length: 1637
+# Ocbimv22002829m Number of predicted TMHs:  1
+# Ocbimv22002829m Exp number of AAs in TMHs: 28.48846
+# Ocbimv22002829m Exp number, first 60 AAs:  0
+# Ocbimv22002829m Total prob of N-in:        0.70795
+Ocbimv22002829m	TMHMM2.0	inside	     1   439
+Ocbimv22002829m	TMHMM2.0	TMhelix	   440   462
+Ocbimv22002829m	TMHMM2.0	outside	   463  1637
+
+# Ocbimv22025977m Length: 484
+# Ocbimv22025977m Number of predicted TMHs:  0
+# Ocbimv22025977m Exp number of AAs in TMHs: 0.01193
+# Ocbimv22025977m Exp number, first 60 AAs:  0.00174
+# Ocbimv22025977m Total prob of N-in:        0.00325
+Ocbimv22025977m	TMHMM2.0	outside	     1   484
+
+# Ocbimv22035883m Length: 322
+# Ocbimv22035883m Number of predicted TMHs:  7
+# Ocbimv22035883m Exp number of AAs in TMHs: 155.58151
+# Ocbimv22035883m Exp number, first 60 AAs:  38.45149
+# Ocbimv22035883m Total prob of N-in:        0.00220
+# Ocbimv22035883m POSSIBLE N-term signal sequence
+Ocbimv22035883m	TMHMM2.0	outside	     1     9
+Ocbimv22035883m	TMHMM2.0	TMhelix	    10    30
+Ocbimv22035883m	TMHMM2.0	inside	    31    42
+Ocbimv22035883m	TMHMM2.0	TMhelix	    43    65
+Ocbimv22035883m	TMHMM2.0	outside	    66    79
+Ocbimv22035883m	TMHMM2.0	TMhelix	    80   102
+Ocbimv22035883m	TMHMM2.0	inside	   103   122
+Ocbimv22035883m	TMHMM2.0	TMhelix	   123   145
+Ocbimv22035883m	TMHMM2.0	outside	   146   164
+Ocbimv22035883m	TMHMM2.0	TMhelix	   165   187
+Ocbimv22035883m	TMHMM2.0	inside	   188   216
+Ocbimv22035883m	TMHMM2.0	TMhelix	   217   239
+Ocbimv22035883m	TMHMM2.0	outside	   240   253
+Ocbimv22035883m	TMHMM2.0	TMhelix	   254   276
+Ocbimv22035883m	TMHMM2.0	inside	   277   322
+
+# Ocbimv22020679m Length: 405
+# Ocbimv22020679m Number of predicted TMHs:  0
+# Ocbimv22020679m Exp number of AAs in TMHs: 0.0808999999999999999
+# Ocbimv22020679m Exp number, first 60 AAs:  0.0803
+# Ocbimv22020679m Total prob of N-in:        0.00578
+Ocbimv22020679m	TMHMM2.0	outside	     1   405
+
+# Ocbimv22005614m Length: 249
+# Ocbimv22005614m Number of predicted TMHs:  0
+# Ocbimv22005614m Exp number of AAs in TMHs: 1.92527
+# Ocbimv22005614m Exp number, first 60 AAs:  0.02215
+# Ocbimv22005614m Total prob of N-in:        0.11052
+Ocbimv22005614m	TMHMM2.0	outside	     1   249
+
+# Ocbimv22023633m Length: 689
+# Ocbimv22023633m Number of predicted TMHs:  0
+# Ocbimv22023633m Exp number of AAs in TMHs: 1.72465
+# Ocbimv22023633m Exp number, first 60 AAs:  1.41
+# Ocbimv22023633m Total prob of N-in:        0.04913
+Ocbimv22023633m	TMHMM2.0	outside	     1   689
+
+# Ocbimv22038812m Length: 454
+# Ocbimv22038812m Number of predicted TMHs:  1
+# Ocbimv22038812m Exp number of AAs in TMHs: 18.17026
+# Ocbimv22038812m Exp number, first 60 AAs:  0.00334
+# Ocbimv22038812m Total prob of N-in:        0.00059
+Ocbimv22038812m	TMHMM2.0	outside	     1   267
+Ocbimv22038812m	TMHMM2.0	TMhelix	   268   290
+Ocbimv22038812m	TMHMM2.0	inside	   291   454
+
+# Ocbimv22035448m Length: 494
+# Ocbimv22035448m Number of predicted TMHs:  0
+# Ocbimv22035448m Exp number of AAs in TMHs: 0.13813
+# Ocbimv22035448m Exp number, first 60 AAs:  0
+# Ocbimv22035448m Total prob of N-in:        0.02010
+Ocbimv22035448m	TMHMM2.0	outside	     1   494
+
+# Ocbimv22015600m Length: 355
+# Ocbimv22015600m Number of predicted TMHs:  0
+# Ocbimv22015600m Exp number of AAs in TMHs: 0
+# Ocbimv22015600m Exp number, first 60 AAs:  0
+# Ocbimv22015600m Total prob of N-in:        0.01681
+Ocbimv22015600m	TMHMM2.0	outside	     1   355
+
+# Ocbimv22032189m Length: 400
+# Ocbimv22032189m Number of predicted TMHs:  0
+# Ocbimv22032189m Exp number of AAs in TMHs: 3.36023
+# Ocbimv22032189m Exp number, first 60 AAs:  0.33089
+# Ocbimv22032189m Total prob of N-in:        0.07489
+Ocbimv22032189m	TMHMM2.0	outside	     1   400
+
+# Ocbimv22009663m Length: 376
+# Ocbimv22009663m Number of predicted TMHs:  0
+# Ocbimv22009663m Exp number of AAs in TMHs: 0.00058
+# Ocbimv22009663m Exp number, first 60 AAs:  0.00021
+# Ocbimv22009663m Total prob of N-in:        0.00559
+Ocbimv22009663m	TMHMM2.0	outside	     1   376
+
+# Ocbimv22009661m Length: 564
+# Ocbimv22009661m Number of predicted TMHs:  0
+# Ocbimv22009661m Exp number of AAs in TMHs: 11.23488
+# Ocbimv22009661m Exp number, first 60 AAs:  11.2337
+# Ocbimv22009661m Total prob of N-in:        0.58730
+# Ocbimv22009661m POSSIBLE N-term signal sequence
+Ocbimv22009661m	TMHMM2.0	outside	     1   564
+
+# Ocbimv22033549m Length: 848
+# Ocbimv22033549m Number of predicted TMHs:  1
+# Ocbimv22033549m Exp number of AAs in TMHs: 23.65808
+# Ocbimv22033549m Exp number, first 60 AAs:  0.00017
+# Ocbimv22033549m Total prob of N-in:        0.00200
+Ocbimv22033549m	TMHMM2.0	outside	     1   678
+Ocbimv22033549m	TMHMM2.0	TMhelix	   679   701
+Ocbimv22033549m	TMHMM2.0	inside	   702   848
+
+# Ocbimv22002671m Length: 1716
+# Ocbimv22002671m Number of predicted TMHs:  8
+# Ocbimv22002671m Exp number of AAs in TMHs: 185.97228
+# Ocbimv22002671m Exp number, first 60 AAs:  0
+# Ocbimv22002671m Total prob of N-in:        0.00079
+Ocbimv22002671m	TMHMM2.0	outside	     1   844
+Ocbimv22002671m	TMHMM2.0	TMhelix	   845   867
+Ocbimv22002671m	TMHMM2.0	inside	   868   904
+Ocbimv22002671m	TMHMM2.0	TMhelix	   905   927
+Ocbimv22002671m	TMHMM2.0	outside	   928   931
+Ocbimv22002671m	TMHMM2.0	TMhelix	   932   954
+Ocbimv22002671m	TMHMM2.0	inside	   955   974
+Ocbimv22002671m	TMHMM2.0	TMhelix	   975   997
+Ocbimv22002671m	TMHMM2.0	outside	   998  1011
+Ocbimv22002671m	TMHMM2.0	TMhelix	  1012  1031
+Ocbimv22002671m	TMHMM2.0	inside	  1032  1051
+Ocbimv22002671m	TMHMM2.0	TMhelix	  1052  1074
+Ocbimv22002671m	TMHMM2.0	outside	  1075  1150
+Ocbimv22002671m	TMHMM2.0	TMhelix	  1151  1173
+Ocbimv22002671m	TMHMM2.0	inside	  1174  1201
+Ocbimv22002671m	TMHMM2.0	TMhelix	  1202  1221
+Ocbimv22002671m	TMHMM2.0	outside	  1222  1716
+
+# Ocbimv22026887m Length: 211
+# Ocbimv22026887m Number of predicted TMHs:  0
+# Ocbimv22026887m Exp number of AAs in TMHs: 0.00775
+# Ocbimv22026887m Exp number, first 60 AAs:  0.00661
+# Ocbimv22026887m Total prob of N-in:        0.04944
+Ocbimv22026887m	TMHMM2.0	outside	     1   211
+
+# Ocbimv22023964m Length: 1654
+# Ocbimv22023964m Number of predicted TMHs:  6
+# Ocbimv22023964m Exp number of AAs in TMHs: 131.24812
+# Ocbimv22023964m Exp number, first 60 AAs:  18.80486
+# Ocbimv22023964m Total prob of N-in:        0.01050
+# Ocbimv22023964m POSSIBLE N-term signal sequence
+Ocbimv22023964m	TMHMM2.0	outside	     1    42
+Ocbimv22023964m	TMHMM2.0	TMhelix	    43    65
+Ocbimv22023964m	TMHMM2.0	inside	    66    71
+Ocbimv22023964m	TMHMM2.0	TMhelix	    72    94
+Ocbimv22023964m	TMHMM2.0	outside	    95    97
+Ocbimv22023964m	TMHMM2.0	TMhelix	    98   120
+Ocbimv22023964m	TMHMM2.0	inside	   121   126
+Ocbimv22023964m	TMHMM2.0	TMhelix	   127   149
+Ocbimv22023964m	TMHMM2.0	outside	   150   989
+Ocbimv22023964m	TMHMM2.0	TMhelix	   990  1009
+Ocbimv22023964m	TMHMM2.0	inside	  1010  1021
+Ocbimv22023964m	TMHMM2.0	TMhelix	  1022  1044
+Ocbimv22023964m	TMHMM2.0	outside	  1045  1654
+
+# Ocbimv22010553m Length: 447
+# Ocbimv22010553m Number of predicted TMHs:  4
+# Ocbimv22010553m Exp number of AAs in TMHs: 98.59128
+# Ocbimv22010553m Exp number, first 60 AAs:  8.49442
+# Ocbimv22010553m Total prob of N-in:        0.39270
+Ocbimv22010553m	TMHMM2.0	outside	     1   242
+Ocbimv22010553m	TMHMM2.0	TMhelix	   243   265
+Ocbimv22010553m	TMHMM2.0	inside	   266   276
+Ocbimv22010553m	TMHMM2.0	TMhelix	   277   299
+Ocbimv22010553m	TMHMM2.0	outside	   300   302
+Ocbimv22010553m	TMHMM2.0	TMhelix	   303   325
+Ocbimv22010553m	TMHMM2.0	inside	   326   420
+Ocbimv22010553m	TMHMM2.0	TMhelix	   421   443
+Ocbimv22010553m	TMHMM2.0	outside	   444   447
+
+# Ocbimv22002252m Length: 684
+# Ocbimv22002252m Number of predicted TMHs:  11
+# Ocbimv22002252m Exp number of AAs in TMHs: 248.84874
+# Ocbimv22002252m Exp number, first 60 AAs:  27.35561
+# Ocbimv22002252m Total prob of N-in:        0.99156
+# Ocbimv22002252m POSSIBLE N-term signal sequence
+Ocbimv22002252m	TMHMM2.0	inside	     1    16
+Ocbimv22002252m	TMHMM2.0	TMhelix	    17    36
+Ocbimv22002252m	TMHMM2.0	outside	    37    55
+Ocbimv22002252m	TMHMM2.0	TMhelix	    56    78
+Ocbimv22002252m	TMHMM2.0	inside	    79    84
+Ocbimv22002252m	TMHMM2.0	TMhelix	    85   107
+Ocbimv22002252m	TMHMM2.0	outside	   108   143
+Ocbimv22002252m	TMHMM2.0	TMhelix	   144   166
+Ocbimv22002252m	TMHMM2.0	inside	   167   178
+Ocbimv22002252m	TMHMM2.0	TMhelix	   179   201
+Ocbimv22002252m	TMHMM2.0	outside	   202   229
+Ocbimv22002252m	TMHMM2.0	TMhelix	   230   252
+Ocbimv22002252m	TMHMM2.0	inside	   253   263
+Ocbimv22002252m	TMHMM2.0	TMhelix	   264   286
+Ocbimv22002252m	TMHMM2.0	outside	   287   406
+Ocbimv22002252m	TMHMM2.0	TMhelix	   407   429
+Ocbimv22002252m	TMHMM2.0	inside	   430   532
+Ocbimv22002252m	TMHMM2.0	TMhelix	   533   555
+Ocbimv22002252m	TMHMM2.0	outside	   556   574
+Ocbimv22002252m	TMHMM2.0	TMhelix	   575   594
+Ocbimv22002252m	TMHMM2.0	inside	   595   618
+Ocbimv22002252m	TMHMM2.0	TMhelix	   619   641
+Ocbimv22002252m	TMHMM2.0	outside	   642   684
+
+# Ocbimv22023982m Length: 810
+# Ocbimv22023982m Number of predicted TMHs:  1
+# Ocbimv22023982m Exp number of AAs in TMHs: 33.18004
+# Ocbimv22023982m Exp number, first 60 AAs:  9.68921
+# Ocbimv22023982m Total prob of N-in:        0.46068
+Ocbimv22023982m	TMHMM2.0	outside	     1   693
+Ocbimv22023982m	TMHMM2.0	TMhelix	   694   716
+Ocbimv22023982m	TMHMM2.0	inside	   717   810
+
+# Ocbimv22004242m Length: 748
+# Ocbimv22004242m Number of predicted TMHs:  0
+# Ocbimv22004242m Exp number of AAs in TMHs: 3.32801
+# Ocbimv22004242m Exp number, first 60 AAs:  0.00016
+# Ocbimv22004242m Total prob of N-in:        0.14951
+Ocbimv22004242m	TMHMM2.0	outside	     1   748

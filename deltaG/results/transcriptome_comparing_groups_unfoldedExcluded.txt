@@ -1,0 +1,45 @@
+
+
+folding results - transcriptome sequnceces summary:
+
+
+sites that wasn't in dsRNA in the first calculated stracture(excluded)
+
+  cold10_transcriptome_sites_400.fasta:
+		286.15K: 433/1640 = 0.264
+		295.15K: 432/1640 = 0.263
+
+  cold_transcriptome_sites_400.fasta:
+		286.15K: 5943/20850 = 0.285
+		295.15K: 6001/20850 = 0.288
+
+  insen_transcriptome_sites_400.fasta:
+		286.15K: 11487/41022 = 0.280
+		295.15K: 11631/41022 = 0.284
+
+  warm_transcriptome_sites_400.fasta:
+		286.15K: 249/789 = 0.316
+		295.15K: 239/789 = 0.303
+
+
+mean ΔG for dsRNA around edting site:
+
+  cold10_transcriptome_sites_400.fasta:
+		286.15K: -27.299, std:17.680
+		295.15K: -23.960, std:15.738
+			 means diff: -3.339
+
+  cold_transcriptome_sites_400.fasta:
+		286.15K: -26.614, std:18.120
+		295.15K: -22.864, std:15.977
+			 means diff: -3.750
+
+  insen_transcriptome_sites_400.fasta:
+		286.15K: -28.732, std:20.385
+		295.15K: -24.733, std:17.860
+			 means diff: -3.999
+
+  warm_transcriptome_sites_400.fasta:
+		286.15K: -28.478, std:21.042
+		295.15K: -24.004, std:18.041
+			 means diff: -4.474

@@ -1,0 +1,1165 @@
+##gff-version 3
+# Ocbimv22031404m Length: 907
+# Ocbimv22031404m Number of predicted TMRs: 0
+Ocbimv22031404m	inside	1	907				
+# Ocbimv22026790m Length: 128
+# Ocbimv22026790m Number of predicted TMRs: 0
+Ocbimv22026790m	inside	1	128				
+# Ocbimv22038859m Length: 1891
+# Ocbimv22038859m Number of predicted TMRs: 0
+Ocbimv22038859m	inside	1	1891				
+# Ocbimv22021175m Length: 409
+# Ocbimv22021175m Number of predicted TMRs: 1
+Ocbimv22021175m	outside	1	65				
+Ocbimv22021175m	TMhelix	66	86				
+Ocbimv22021175m	inside	87	409				
+# Ocbimv22004739m Length: 816
+# Ocbimv22004739m Number of predicted TMRs: 0
+Ocbimv22004739m	inside	1	816				
+# Ocbimv22013058m Length: 672
+# Ocbimv22013058m Number of predicted TMRs: 1
+Ocbimv22013058m	outside	1	559				
+Ocbimv22013058m	TMhelix	560	577				
+Ocbimv22013058m	inside	578	672				
+# Ocbimv22014978m Length: 626
+# Ocbimv22014978m Number of predicted TMRs: 0
+Ocbimv22014978m	inside	1	626				
+# Ocbimv22019868m Length: 305
+# Ocbimv22019868m Number of predicted TMRs: 0
+Ocbimv22019868m	outside	1	305				
+# Ocbimv22025952m Length: 215
+# Ocbimv22025952m Number of predicted TMRs: 0
+Ocbimv22025952m	inside	1	215				
+# Ocbimv22001204m Length: 531
+# Ocbimv22001204m Number of predicted TMRs: 0
+Ocbimv22001204m	inside	1	531				
+# Ocbimv22002641m Length: 338
+# Ocbimv22002641m Number of predicted TMRs: 0
+Ocbimv22002641m	inside	1	338				
+# Ocbimv22012040m Length: 548
+# Ocbimv22012040m Number of predicted TMRs: 1
+Ocbimv22012040m	outside	1	115				
+Ocbimv22012040m	TMhelix	116	137				
+Ocbimv22012040m	inside	138	548				
+# Ocbimv22021366m Length: 3019
+# Ocbimv22021366m Number of predicted TMRs: 0
+Ocbimv22021366m	inside	1	3019				
+# Ocbimv22030925m Length: 1044
+# Ocbimv22030925m Number of predicted TMRs: 0
+Ocbimv22030925m	inside	1	1044				
+# Ocbimv22014728m Length: 465
+# Ocbimv22014728m Number of predicted TMRs: 0
+Ocbimv22014728m	inside	1	465				
+# Ocbimv22019105m Length: 265
+# Ocbimv22019105m Number of predicted TMRs: 0
+Ocbimv22019105m	inside	1	265				
+# Ocbimv22000277m Length: 555
+# Ocbimv22000277m Number of predicted TMRs: 0
+Ocbimv22000277m	inside	1	555				
+# Ocbimv22037674m Length: 334
+# Ocbimv22037674m Number of predicted TMRs: 0
+Ocbimv22037674m	inside	1	334				
+# Ocbimv22008121m Length: 472
+# Ocbimv22008121m Number of predicted TMRs: 0
+Ocbimv22008121m	inside	1	472				
+# Ocbimv22009229m Length: 551
+# Ocbimv22009229m Number of predicted TMRs: 0
+Ocbimv22009229m	inside	1	551				
+# Ocbimv22035445m Length: 582
+# Ocbimv22035445m Number of predicted TMRs: 0
+Ocbimv22035445m	inside	1	582				
+# Ocbimv22011004m Length: 1145
+# Ocbimv22011004m Number of predicted TMRs: 0
+Ocbimv22011004m	inside	1	1145				
+# Ocbimv22004057m Length: 758
+# Ocbimv22004057m Number of predicted TMRs: 0
+Ocbimv22004057m	inside	1	758				
+# Ocbimv22028537m Length: 388
+# Ocbimv22028537m Number of predicted TMRs: 2
+Ocbimv22028537m	inside	1	10				
+Ocbimv22028537m	TMhelix	11	28				
+Ocbimv22028537m	outside	29	351				
+Ocbimv22028537m	TMhelix	352	369				
+Ocbimv22028537m	inside	370	388				
+# Ocbimv22029735m Length: 683
+# Ocbimv22029735m Number of predicted TMRs: 1
+Ocbimv22029735m	inside	1	9				
+Ocbimv22029735m	TMhelix	10	27				
+Ocbimv22029735m	outside	28	683				
+# Ocbimv22036162m Length: 212
+# Ocbimv22036162m Number of predicted TMRs: 5
+Ocbimv22036162m	outside	1	21				
+Ocbimv22036162m	TMhelix	22	42				
+Ocbimv22036162m	inside	43	59				
+Ocbimv22036162m	TMhelix	60	81				
+Ocbimv22036162m	outside	82	91				
+Ocbimv22036162m	TMhelix	92	112				
+Ocbimv22036162m	inside	113	132				
+Ocbimv22036162m	TMhelix	133	153				
+Ocbimv22036162m	outside	154	165				
+Ocbimv22036162m	TMhelix	166	187				
+Ocbimv22036162m	inside	188	212				
+# Ocbimv22019208m Length: 944
+# Ocbimv22019208m Number of predicted TMRs: 2
+Ocbimv22019208m	inside	1	3				
+Ocbimv22019208m	TMhelix	4	19				
+Ocbimv22019208m	outside	20	26				
+Ocbimv22019208m	TMhelix	27	45				
+Ocbimv22019208m	inside	46	944				
+# Ocbimv22028679m Length: 579
+# Ocbimv22028679m Number of predicted TMRs: 0
+Ocbimv22028679m	inside	1	579				
+# Ocbimv22001044m Length: 419
+# Ocbimv22001044m Number of predicted TMRs: 0
+Ocbimv22001044m	inside	1	419				
+# Ocbimv22029832m Length: 496
+# Ocbimv22029832m Number of predicted TMRs: 12
+Ocbimv22029832m	inside	1	20				
+Ocbimv22029832m	TMhelix	21	41				
+Ocbimv22029832m	outside	42	60				
+Ocbimv22029832m	TMhelix	61	81				
+Ocbimv22029832m	inside	82	87				
+Ocbimv22029832m	TMhelix	88	107				
+Ocbimv22029832m	outside	108	112				
+Ocbimv22029832m	TMhelix	113	135				
+Ocbimv22029832m	inside	136	146				
+Ocbimv22029832m	TMhelix	147	166				
+Ocbimv22029832m	outside	167	176				
+Ocbimv22029832m	TMhelix	177	194				
+Ocbimv22029832m	inside	195	219				
+Ocbimv22029832m	TMhelix	220	240				
+Ocbimv22029832m	outside	241	257				
+Ocbimv22029832m	TMhelix	258	278				
+Ocbimv22029832m	inside	279	285				
+Ocbimv22029832m	TMhelix	286	307				
+Ocbimv22029832m	outside	308	313				
+Ocbimv22029832m	TMhelix	314	327				
+Ocbimv22029832m	inside	328	348				
+Ocbimv22029832m	TMhelix	349	369				
+Ocbimv22029832m	outside	370	376				
+Ocbimv22029832m	TMhelix	377	396				
+Ocbimv22029832m	inside	397	496				
+# Ocbimv22018371m Length: 262
+# Ocbimv22018371m Number of predicted TMRs: 1
+Ocbimv22018371m	outside	1	4				
+Ocbimv22018371m	TMhelix	5	27				
+Ocbimv22018371m	inside	28	262				
+# Ocbimv22026292m Length: 982
+# Ocbimv22026292m Number of predicted TMRs: 2
+Ocbimv22026292m	inside	1	301				
+Ocbimv22026292m	TMhelix	302	322				
+Ocbimv22026292m	outside	323	324				
+Ocbimv22026292m	TMhelix	325	346				
+Ocbimv22026292m	inside	347	982				
+# Ocbimv22026744m Length: 537
+# Ocbimv22026744m Number of predicted TMRs: 0
+Ocbimv22026744m	inside	1	537				
+# Ocbimv22001928m Length: 591
+# Ocbimv22001928m Number of predicted TMRs: 0
+Ocbimv22001928m	inside	1	591				
+# Ocbimv22015547m Length: 720
+# Ocbimv22015547m Number of predicted TMRs: 0
+Ocbimv22015547m	inside	1	720				
+# Ocbimv22006850m Length: 572
+# Ocbimv22006850m Number of predicted TMRs: 4
+Ocbimv22006850m	inside	1	397				
+Ocbimv22006850m	TMhelix	398	418				
+Ocbimv22006850m	outside	419	452				
+Ocbimv22006850m	TMhelix	453	473				
+Ocbimv22006850m	inside	474	523				
+Ocbimv22006850m	TMhelix	524	533				
+Ocbimv22006850m	outside	534	534				
+Ocbimv22006850m	TMhelix	535	544				
+Ocbimv22006850m	inside	545	572				
+# Ocbimv22004062m Length: 501
+# Ocbimv22004062m Number of predicted TMRs: 0
+Ocbimv22004062m	inside	1	501				
+# Ocbimv22026272m Length: 469
+# Ocbimv22026272m Number of predicted TMRs: 0
+Ocbimv22026272m	inside	1	469				
+# Ocbimv22011163m Length: 598
+# Ocbimv22011163m Number of predicted TMRs: 0
+Ocbimv22011163m	inside	1	598				
+# Ocbimv22015513m Length: 599
+# Ocbimv22015513m Number of predicted TMRs: 6
+Ocbimv22015513m	inside	1	337				
+Ocbimv22015513m	TMhelix	338	355				
+Ocbimv22015513m	outside	356	369				
+Ocbimv22015513m	TMhelix	370	390				
+Ocbimv22015513m	inside	391	415				
+Ocbimv22015513m	TMhelix	416	438				
+Ocbimv22015513m	outside	439	446				
+Ocbimv22015513m	TMhelix	447	467				
+Ocbimv22015513m	inside	468	477				
+Ocbimv22015513m	TMhelix	478	493				
+Ocbimv22015513m	outside	494	566				
+Ocbimv22015513m	TMhelix	567	587				
+Ocbimv22015513m	inside	588	599				
+# Ocbimv22034093m Length: 843
+# Ocbimv22034093m Number of predicted TMRs: 1
+Ocbimv22034093m	signal	1	17				
+Ocbimv22034093m	outside	18	686				
+Ocbimv22034093m	TMhelix	687	707				
+Ocbimv22034093m	inside	708	843				
+# Ocbimv22003467m Length: 1097
+# Ocbimv22003467m Number of predicted TMRs: 1
+Ocbimv22003467m	inside	1	97				
+Ocbimv22003467m	TMhelix	98	116				
+Ocbimv22003467m	outside	117	1097				
+# Ocbimv22017057m Length: 640
+# Ocbimv22017057m Number of predicted TMRs: 0
+Ocbimv22017057m	outside	1	640				
+# Ocbimv22024003m Length: 590
+# Ocbimv22024003m Number of predicted TMRs: 0
+Ocbimv22024003m	inside	1	590				
+# Ocbimv22034044m Length: 608
+# Ocbimv22034044m Number of predicted TMRs: 0
+Ocbimv22034044m	inside	1	608				
+# Ocbimv22034812m Length: 913
+# Ocbimv22034812m Number of predicted TMRs: 0
+Ocbimv22034812m	outside	1	913				
+# Ocbimv22015376m Length: 501
+# Ocbimv22015376m Number of predicted TMRs: 1
+Ocbimv22015376m	inside	1	71				
+Ocbimv22015376m	TMhelix	72	91				
+Ocbimv22015376m	outside	92	501				
+# Ocbimv22021903m Length: 276
+# Ocbimv22021903m Number of predicted TMRs: 0
+Ocbimv22021903m	inside	1	276				
+# Ocbimv22002287m Length: 1489
+# Ocbimv22002287m Number of predicted TMRs: 0
+Ocbimv22002287m	inside	1	1489				
+# Ocbimv22022855m Length: 367
+# Ocbimv22022855m Number of predicted TMRs: 0
+Ocbimv22022855m	inside	1	367				
+# Ocbimv22005038m Length: 248
+# Ocbimv22005038m Number of predicted TMRs: 0
+Ocbimv22005038m	inside	1	248				
+# Ocbimv22027632m Length: 636
+# Ocbimv22027632m Number of predicted TMRs: 1
+Ocbimv22027632m	outside	1	247				
+Ocbimv22027632m	TMhelix	248	263				
+Ocbimv22027632m	inside	264	636				
+# Ocbimv22020480m Length: 1458
+# Ocbimv22020480m Number of predicted TMRs: 0
+Ocbimv22020480m	inside	1	1458				
+# Ocbimv22031333m Length: 525
+# Ocbimv22031333m Number of predicted TMRs: 0
+Ocbimv22031333m	inside	1	525				
+# Ocbimv22020100m Length: 795
+# Ocbimv22020100m Number of predicted TMRs: 0
+Ocbimv22020100m	inside	1	795				
+# Ocbimv22022118m Length: 866
+# Ocbimv22022118m Number of predicted TMRs: 0
+Ocbimv22022118m	inside	1	866				
+# Ocbimv22035763m Length: 846
+# Ocbimv22035763m Number of predicted TMRs: 1
+Ocbimv22035763m	signal	1	21				
+Ocbimv22035763m	outside	22	691				
+Ocbimv22035763m	TMhelix	692	714				
+Ocbimv22035763m	inside	715	846				
+# Ocbimv22002410m Length: 942
+# Ocbimv22002410m Number of predicted TMRs: 0
+Ocbimv22002410m	inside	1	942				
+# Ocbimv22011510m Length: 2533
+# Ocbimv22011510m Number of predicted TMRs: 0
+Ocbimv22011510m	inside	1	2533				
+# Ocbimv22039404m Length: 564
+# Ocbimv22039404m Number of predicted TMRs: 0
+Ocbimv22039404m	inside	1	564				
+# Ocbimv22012339m Length: 620
+# Ocbimv22012339m Number of predicted TMRs: 0
+Ocbimv22012339m	inside	1	620				
+# Ocbimv22001209m Length: 58
+# Ocbimv22001209m Number of predicted TMRs: 0
+Ocbimv22001209m	inside	1	58				
+# Ocbimv22021054m Length: 543
+# Ocbimv22021054m Number of predicted TMRs: 1
+Ocbimv22021054m	signal	1	17				
+Ocbimv22021054m	outside	18	468				
+Ocbimv22021054m	TMhelix	469	478				
+Ocbimv22021054m	inside	479	543				
+# Ocbimv22023714m Length: 847
+# Ocbimv22023714m Number of predicted TMRs: 0
+Ocbimv22023714m	inside	1	847				
+# Ocbimv22007481m Length: 1053
+# Ocbimv22007481m Number of predicted TMRs: 1
+Ocbimv22007481m	outside	1	519				
+Ocbimv22007481m	TMhelix	520	540				
+Ocbimv22007481m	inside	541	1053				
+# Ocbimv22017652m Length: 882
+# Ocbimv22017652m Number of predicted TMRs: 7
+Ocbimv22017652m	outside	1	78				
+Ocbimv22017652m	TMhelix	79	101				
+Ocbimv22017652m	inside	102	114				
+Ocbimv22017652m	TMhelix	115	137				
+Ocbimv22017652m	outside	138	152				
+Ocbimv22017652m	TMhelix	153	174				
+Ocbimv22017652m	inside	175	194				
+Ocbimv22017652m	TMhelix	195	217				
+Ocbimv22017652m	outside	218	239				
+Ocbimv22017652m	TMhelix	240	262				
+Ocbimv22017652m	inside	263	805				
+Ocbimv22017652m	TMhelix	806	826				
+Ocbimv22017652m	outside	827	840				
+Ocbimv22017652m	TMhelix	841	862				
+Ocbimv22017652m	inside	863	882				
+# Ocbimv22039027m Length: 940
+# Ocbimv22039027m Number of predicted TMRs: 1
+Ocbimv22039027m	signal	1	17				
+Ocbimv22039027m	outside	18	688				
+Ocbimv22039027m	TMhelix	689	708				
+Ocbimv22039027m	inside	709	940				
+# Ocbimv22035408m Length: 622
+# Ocbimv22035408m Number of predicted TMRs: 4
+Ocbimv22035408m	inside	1	517				
+Ocbimv22035408m	TMhelix	518	527				
+Ocbimv22035408m	outside	528	528				
+Ocbimv22035408m	TMhelix	529	538				
+Ocbimv22035408m	inside	539	549				
+Ocbimv22035408m	TMhelix	550	566				
+Ocbimv22035408m	outside	567	581				
+Ocbimv22035408m	TMhelix	582	602				
+Ocbimv22035408m	inside	603	622				
+# Ocbimv22034593m Length: 3508
+# Ocbimv22034593m Number of predicted TMRs: 0
+Ocbimv22034593m	inside	1	3508				
+# Ocbimv22015207m Length: 1041
+# Ocbimv22015207m Number of predicted TMRs: 0
+Ocbimv22015207m	inside	1	1041				
+# Ocbimv22032563m Length: 850
+# Ocbimv22032563m Number of predicted TMRs: 0
+Ocbimv22032563m	inside	1	850				
+# Ocbimv22002661m Length: 250
+# Ocbimv22002661m Number of predicted TMRs: 0
+Ocbimv22002661m	inside	1	250				
+# Ocbimv22016021m Length: 1734
+# Ocbimv22016021m Number of predicted TMRs: 0
+Ocbimv22016021m	inside	1	1734				
+# Ocbimv22028795m Length: 434
+# Ocbimv22028795m Number of predicted TMRs: 0
+Ocbimv22028795m	inside	1	434				
+# Ocbimv22005418m Length: 1388
+# Ocbimv22005418m Number of predicted TMRs: 0
+Ocbimv22005418m	outside	1	1388				
+# Ocbimv22017348m Length: 192
+# Ocbimv22017348m Number of predicted TMRs: 0
+Ocbimv22017348m	inside	1	192				
+# Ocbimv22010677m Length: 583
+# Ocbimv22010677m Number of predicted TMRs: 0
+Ocbimv22010677m	inside	1	583				
+# Ocbimv22000139m Length: 650
+# Ocbimv22000139m Number of predicted TMRs: 0
+Ocbimv22000139m	inside	1	650				
+# Ocbimv22025734m Length: 2299
+# Ocbimv22025734m Number of predicted TMRs: 1
+Ocbimv22025734m	outside	1	2048				
+Ocbimv22025734m	TMhelix	2049	2072				
+Ocbimv22025734m	inside	2073	2299				
+# Ocbimv22010435m Length: 2594
+# Ocbimv22010435m Number of predicted TMRs: 0
+Ocbimv22010435m	inside	1	2594				
+# Ocbimv22010659m Length: 3711
+# Ocbimv22010659m Number of predicted TMRs: 6
+Ocbimv22010659m	inside	1	3255				
+Ocbimv22010659m	TMhelix	3256	3276				
+Ocbimv22010659m	outside	3277	3317				
+Ocbimv22010659m	TMhelix	3318	3338				
+Ocbimv22010659m	inside	3339	3461				
+Ocbimv22010659m	TMhelix	3462	3475				
+Ocbimv22010659m	outside	3476	3476				
+Ocbimv22010659m	TMhelix	3477	3487				
+Ocbimv22010659m	inside	3488	3509				
+Ocbimv22010659m	TMhelix	3510	3530				
+Ocbimv22010659m	outside	3531	3585				
+Ocbimv22010659m	TMhelix	3586	3609				
+Ocbimv22010659m	inside	3610	3711				
+# Ocbimv22001378m Length: 497
+# Ocbimv22001378m Number of predicted TMRs: 12
+Ocbimv22001378m	inside	1	49				
+Ocbimv22001378m	TMhelix	50	71				
+Ocbimv22001378m	outside	72	115				
+Ocbimv22001378m	TMhelix	116	136				
+Ocbimv22001378m	inside	137	142				
+Ocbimv22001378m	TMhelix	143	163				
+Ocbimv22001378m	outside	164	168				
+Ocbimv22001378m	TMhelix	169	185				
+Ocbimv22001378m	inside	186	203				
+Ocbimv22001378m	TMhelix	204	213				
+Ocbimv22001378m	outside	214	214				
+Ocbimv22001378m	TMhelix	215	224				
+Ocbimv22001378m	inside	225	258				
+Ocbimv22001378m	TMhelix	259	279				
+Ocbimv22001378m	outside	280	304				
+Ocbimv22001378m	TMhelix	305	325				
+Ocbimv22001378m	inside	326	341				
+Ocbimv22001378m	TMhelix	342	361				
+Ocbimv22001378m	outside	362	368				
+Ocbimv22001378m	TMhelix	369	389				
+Ocbimv22001378m	inside	390	400				
+Ocbimv22001378m	TMhelix	401	421				
+Ocbimv22001378m	outside	422	434				
+Ocbimv22001378m	TMhelix	435	455				
+Ocbimv22001378m	inside	456	497				
+# Ocbimv22013572m Length: 832
+# Ocbimv22013572m Number of predicted TMRs: 1
+Ocbimv22013572m	signal	1	27				
+Ocbimv22013572m	outside	28	743				
+Ocbimv22013572m	TMhelix	744	764				
+Ocbimv22013572m	inside	765	832				
+# Ocbimv22003625m Length: 232
+# Ocbimv22003625m Number of predicted TMRs: 4
+Ocbimv22003625m	inside	1	9				
+Ocbimv22003625m	TMhelix	10	29				
+Ocbimv22003625m	outside	30	103				
+Ocbimv22003625m	TMhelix	104	124				
+Ocbimv22003625m	inside	125	134				
+Ocbimv22003625m	TMhelix	135	157				
+Ocbimv22003625m	outside	158	185				
+Ocbimv22003625m	TMhelix	186	206				
+Ocbimv22003625m	inside	207	232				
+# Ocbimv22002191m Length: 948
+# Ocbimv22002191m Number of predicted TMRs: 0
+Ocbimv22002191m	inside	1	948				
+# Ocbimv22016002m Length: 839
+# Ocbimv22016002m Number of predicted TMRs: 0
+Ocbimv22016002m	inside	1	839				
+# Ocbimv22037079m Length: 1811
+# Ocbimv22037079m Number of predicted TMRs: 0
+Ocbimv22037079m	inside	1	1811				
+# Ocbimv22038589m Length: 1061
+# Ocbimv22038589m Number of predicted TMRs: 1
+Ocbimv22038589m	outside	1	433				
+Ocbimv22038589m	TMhelix	434	454				
+Ocbimv22038589m	inside	455	1061				
+# Ocbimv22034100m Length: 345
+# Ocbimv22034100m Number of predicted TMRs: 0
+Ocbimv22034100m	signal	1	17				
+Ocbimv22034100m	outside	18	345				
+# Ocbimv22003478m Length: 625
+# Ocbimv22003478m Number of predicted TMRs: 1
+Ocbimv22003478m	inside	1	66				
+Ocbimv22003478m	TMhelix	67	87				
+Ocbimv22003478m	outside	88	625				
+# Ocbimv22003487m Length: 722
+# Ocbimv22003487m Number of predicted TMRs: 0
+Ocbimv22003487m	outside	1	722				
+# Ocbimv22036800m Length: 273
+# Ocbimv22036800m Number of predicted TMRs: 1
+Ocbimv22036800m	signal	1	36				
+Ocbimv22036800m	outside	37	186				
+Ocbimv22036800m	TMhelix	187	207				
+Ocbimv22036800m	inside	208	273				
+# Ocbimv22016735m Length: 294
+# Ocbimv22016735m Number of predicted TMRs: 0
+Ocbimv22016735m	inside	1	294				
+# Ocbimv22012909m Length: 304
+# Ocbimv22012909m Number of predicted TMRs: 0
+Ocbimv22012909m	inside	1	304				
+# Ocbimv22020714m Length: 712
+# Ocbimv22020714m Number of predicted TMRs: 1
+Ocbimv22020714m	signal	1	23				
+Ocbimv22020714m	outside	24	672				
+Ocbimv22020714m	TMhelix	673	690				
+Ocbimv22020714m	inside	691	712				
+# Ocbimv22001867m Length: 564
+# Ocbimv22001867m Number of predicted TMRs: 0
+Ocbimv22001867m	inside	1	564				
+# Ocbimv22018092m Length: 1553
+# Ocbimv22018092m Number of predicted TMRs: 1
+Ocbimv22018092m	outside	1	1506				
+Ocbimv22018092m	TMhelix	1507	1527				
+Ocbimv22018092m	inside	1528	1553				
+# Ocbimv22011975m Length: 741
+# Ocbimv22011975m Number of predicted TMRs: 0
+Ocbimv22011975m	inside	1	741				
+# Ocbimv22037778m Length: 1025
+# Ocbimv22037778m Number of predicted TMRs: 0
+Ocbimv22037778m	inside	1	1025				
+# Ocbimv22000303m Length: 1046
+# Ocbimv22000303m Number of predicted TMRs: 12
+Ocbimv22000303m	inside	1	443				
+Ocbimv22000303m	TMhelix	444	461				
+Ocbimv22000303m	outside	462	477				
+Ocbimv22000303m	TMhelix	478	493				
+Ocbimv22000303m	inside	494	503				
+Ocbimv22000303m	TMhelix	504	513				
+Ocbimv22000303m	outside	514	524				
+Ocbimv22000303m	TMhelix	525	545				
+Ocbimv22000303m	inside	546	560				
+Ocbimv22000303m	TMhelix	561	578				
+Ocbimv22000303m	outside	579	648				
+Ocbimv22000303m	TMhelix	649	667				
+Ocbimv22000303m	inside	668	682				
+Ocbimv22000303m	TMhelix	683	703				
+Ocbimv22000303m	outside	704	732				
+Ocbimv22000303m	TMhelix	733	753				
+Ocbimv22000303m	inside	754	778				
+Ocbimv22000303m	TMhelix	779	792				
+Ocbimv22000303m	outside	793	793				
+Ocbimv22000303m	TMhelix	794	803				
+Ocbimv22000303m	inside	804	833				
+Ocbimv22000303m	TMhelix	834	853				
+Ocbimv22000303m	outside	854	855				
+Ocbimv22000303m	TMhelix	856	876				
+Ocbimv22000303m	inside	877	1046				
+# Ocbimv22016608m Length: 2780
+# Ocbimv22016608m Number of predicted TMRs: 0
+Ocbimv22016608m	inside	1	2780				
+# Ocbimv22023426m Length: 492
+# Ocbimv22023426m Number of predicted TMRs: 0
+Ocbimv22023426m	outside	1	492				
+# Ocbimv22010852m Length: 2066
+# Ocbimv22010852m Number of predicted TMRs: 0
+Ocbimv22010852m	inside	1	2066				
+# Ocbimv22033925m Length: 1243
+# Ocbimv22033925m Number of predicted TMRs: 0
+Ocbimv22033925m	inside	1	1243				
+# Ocbimv22004170m Length: 694
+# Ocbimv22004170m Number of predicted TMRs: 1
+Ocbimv22004170m	inside	1	488				
+Ocbimv22004170m	TMhelix	489	498				
+Ocbimv22004170m	outside	499	694				
+# Ocbimv22032787m Length: 1052
+# Ocbimv22032787m Number of predicted TMRs: 0
+Ocbimv22032787m	inside	1	1052				
+# Ocbimv22032170m Length: 302
+# Ocbimv22032170m Number of predicted TMRs: 0
+Ocbimv22032170m	inside	1	302				
+# Ocbimv22017638m Length: 119
+# Ocbimv22017638m Number of predicted TMRs: 0
+Ocbimv22017638m	inside	1	119				
+# Ocbimv22030115m Length: 459
+# Ocbimv22030115m Number of predicted TMRs: 5
+Ocbimv22030115m	inside	1	2				
+Ocbimv22030115m	TMhelix	3	24				
+Ocbimv22030115m	outside	25	50				
+Ocbimv22030115m	TMhelix	51	71				
+Ocbimv22030115m	inside	72	83				
+Ocbimv22030115m	TMhelix	84	104				
+Ocbimv22030115m	outside	105	120				
+Ocbimv22030115m	TMhelix	121	142				
+Ocbimv22030115m	inside	143	154				
+Ocbimv22030115m	TMhelix	155	175				
+Ocbimv22030115m	outside	176	459				
+# Ocbimv22025241m Length: 203
+# Ocbimv22025241m Number of predicted TMRs: 0
+Ocbimv22025241m	inside	1	203				
+# Ocbimv22000291m Length: 349
+# Ocbimv22000291m Number of predicted TMRs: 0
+Ocbimv22000291m	inside	1	349				
+# Ocbimv22012904m Length: 412
+# Ocbimv22012904m Number of predicted TMRs: 0
+Ocbimv22012904m	inside	1	412				
+# Ocbimv22017953m Length: 2019
+# Ocbimv22017953m Number of predicted TMRs: 0
+Ocbimv22017953m	inside	1	2019				
+# Ocbimv22024330m Length: 167
+# Ocbimv22024330m Number of predicted TMRs: 0
+Ocbimv22024330m	inside	1	167				
+# Ocbimv22004401m Length: 271
+# Ocbimv22004401m Number of predicted TMRs: 2
+Ocbimv22004401m	inside	1	35				
+Ocbimv22004401m	TMhelix	36	46				
+Ocbimv22004401m	outside	47	47				
+Ocbimv22004401m	TMhelix	48	57				
+Ocbimv22004401m	inside	58	271				
+# Ocbimv22030995m Length: 454
+# Ocbimv22030995m Number of predicted TMRs: 0
+Ocbimv22030995m	inside	1	454				
+# Ocbimv22031662m Length: 138
+# Ocbimv22031662m Number of predicted TMRs: 0
+Ocbimv22031662m	inside	1	138				
+# Ocbimv22038962m Length: 2922
+# Ocbimv22038962m Number of predicted TMRs: 0
+Ocbimv22038962m	inside	1	2922				
+# Ocbimv22000751m Length: 422
+# Ocbimv22000751m Number of predicted TMRs: 4
+Ocbimv22000751m	outside	1	136				
+Ocbimv22000751m	TMhelix	137	161				
+Ocbimv22000751m	inside	162	167				
+Ocbimv22000751m	TMhelix	168	186				
+Ocbimv22000751m	outside	187	201				
+Ocbimv22000751m	TMhelix	202	223				
+Ocbimv22000751m	inside	224	376				
+Ocbimv22000751m	TMhelix	377	397				
+Ocbimv22000751m	outside	398	422				
+# Ocbimv22000512m Length: 518
+# Ocbimv22000512m Number of predicted TMRs: 4
+Ocbimv22000512m	outside	1	333				
+Ocbimv22000512m	TMhelix	334	355				
+Ocbimv22000512m	inside	356	362				
+Ocbimv22000512m	TMhelix	363	383				
+Ocbimv22000512m	outside	384	394				
+Ocbimv22000512m	TMhelix	395	417				
+Ocbimv22000512m	inside	418	497				
+Ocbimv22000512m	TMhelix	498	516				
+Ocbimv22000512m	outside	517	518				
+# Ocbimv22036038m Length: 463
+# Ocbimv22036038m Number of predicted TMRs: 10
+Ocbimv22036038m	inside	1	12				
+Ocbimv22036038m	TMhelix	13	31				
+Ocbimv22036038m	outside	32	46				
+Ocbimv22036038m	TMhelix	47	67				
+Ocbimv22036038m	inside	68	177				
+Ocbimv22036038m	TMhelix	178	196				
+Ocbimv22036038m	outside	197	206				
+Ocbimv22036038m	TMhelix	207	222				
+Ocbimv22036038m	inside	223	235				
+Ocbimv22036038m	TMhelix	236	254				
+Ocbimv22036038m	outside	255	263				
+Ocbimv22036038m	TMhelix	264	284				
+Ocbimv22036038m	inside	285	297				
+Ocbimv22036038m	TMhelix	298	318				
+Ocbimv22036038m	outside	319	333				
+Ocbimv22036038m	TMhelix	334	354				
+Ocbimv22036038m	inside	355	361				
+Ocbimv22036038m	TMhelix	362	382				
+Ocbimv22036038m	outside	383	388				
+Ocbimv22036038m	TMhelix	389	411				
+Ocbimv22036038m	inside	412	463				
+# Ocbimv22015550m Length: 1345
+# Ocbimv22015550m Number of predicted TMRs: 0
+Ocbimv22015550m	inside	1	1345				
+# Ocbimv22021053m Length: 424
+# Ocbimv22021053m Number of predicted TMRs: 0
+Ocbimv22021053m	outside	1	424				
+# Ocbimv22029540m Length: 1367
+# Ocbimv22029540m Number of predicted TMRs: 0
+Ocbimv22029540m	inside	1	1367				
+# Ocbimv22013873m Length: 510
+# Ocbimv22013873m Number of predicted TMRs: 0
+Ocbimv22013873m	inside	1	510				
+# Ocbimv22024977m Length: 877
+# Ocbimv22024977m Number of predicted TMRs: 0
+Ocbimv22024977m	inside	1	877				
+# Ocbimv22029470m Length: 333
+# Ocbimv22029470m Number of predicted TMRs: 1
+Ocbimv22029470m	outside	1	4				
+Ocbimv22029470m	TMhelix	5	20				
+Ocbimv22029470m	inside	21	333				
+# Ocbimv22029472m Length: 599
+# Ocbimv22029472m Number of predicted TMRs: 0
+Ocbimv22029472m	signal	1	28				
+Ocbimv22029472m	outside	29	599				
+# Ocbimv22039302m Length: 306
+# Ocbimv22039302m Number of predicted TMRs: 0
+Ocbimv22039302m	inside	1	306				
+# Ocbimv22014532m Length: 176
+# Ocbimv22014532m Number of predicted TMRs: 0
+Ocbimv22014532m	inside	1	176				
+# Ocbimv22003711m Length: 639
+# Ocbimv22003711m Number of predicted TMRs: 0
+Ocbimv22003711m	signal	1	25				
+Ocbimv22003711m	outside	26	639				
+# Ocbimv22008114m Length: 758
+# Ocbimv22008114m Number of predicted TMRs: 0
+Ocbimv22008114m	inside	1	758				
+# Ocbimv22017088m Length: 872
+# Ocbimv22017088m Number of predicted TMRs: 0
+Ocbimv22017088m	inside	1	872				
+# Ocbimv22012133m Length: 1799
+# Ocbimv22012133m Number of predicted TMRs: 0
+Ocbimv22012133m	inside	1	1799				
+# Ocbimv22020147m Length: 1717
+# Ocbimv22020147m Number of predicted TMRs: 1
+Ocbimv22020147m	inside	1	309				
+Ocbimv22020147m	TMhelix	310	330				
+Ocbimv22020147m	outside	331	1717				
+# Ocbimv22028502m Length: 11388
+# Ocbimv22028502m Number of predicted TMRs: 0
+Ocbimv22028502m	inside	1	11388				
+# Ocbimv22024144m Length: 1097
+# Ocbimv22024144m Number of predicted TMRs: 0
+Ocbimv22024144m	inside	1	1097				
+# Ocbimv22033103m Length: 4337
+# Ocbimv22033103m Number of predicted TMRs: 1
+Ocbimv22033103m	signal	1	26				
+Ocbimv22033103m	outside	27	4227				
+Ocbimv22033103m	TMhelix	4228	4248				
+Ocbimv22033103m	inside	4249	4337				
+# Ocbimv22021738m Length: 2717
+# Ocbimv22021738m Number of predicted TMRs: 1
+Ocbimv22021738m	outside	1	2293				
+Ocbimv22021738m	TMhelix	2294	2314				
+Ocbimv22021738m	inside	2315	2717				
+# Ocbimv22014564m Length: 966
+# Ocbimv22014564m Number of predicted TMRs: 1
+Ocbimv22014564m	signal	1	36				
+Ocbimv22014564m	outside	37	916				
+Ocbimv22014564m	TMhelix	917	934				
+Ocbimv22014564m	inside	935	966				
+# Ocbimv22031571m Length: 1335
+# Ocbimv22031571m Number of predicted TMRs: 0
+Ocbimv22031571m	inside	1	1335				
+# Ocbimv22028255m Length: 712
+# Ocbimv22028255m Number of predicted TMRs: 0
+Ocbimv22028255m	inside	1	712				
+# Ocbimv22009986m Length: 749
+# Ocbimv22009986m Number of predicted TMRs: 0
+Ocbimv22009986m	inside	1	749				
+# Ocbimv22009305m Length: 564
+# Ocbimv22009305m Number of predicted TMRs: 4
+Ocbimv22009305m	signal	1	23				
+Ocbimv22009305m	outside	24	238				
+Ocbimv22009305m	TMhelix	239	263				
+Ocbimv22009305m	inside	264	269				
+Ocbimv22009305m	TMhelix	270	288				
+Ocbimv22009305m	outside	289	298				
+Ocbimv22009305m	TMhelix	299	325				
+Ocbimv22009305m	inside	326	517				
+Ocbimv22009305m	TMhelix	518	538				
+Ocbimv22009305m	outside	539	564				
+# Ocbimv22021898m Length: 262
+# Ocbimv22021898m Number of predicted TMRs: 0
+Ocbimv22021898m	inside	1	262				
+# Ocbimv22004752m Length: 1124
+# Ocbimv22004752m Number of predicted TMRs: 0
+Ocbimv22004752m	inside	1	1124				
+# Ocbimv22027298m Length: 1979
+# Ocbimv22027298m Number of predicted TMRs: 0
+Ocbimv22027298m	inside	1	1979				
+# Ocbimv22009179m Length: 315
+# Ocbimv22009179m Number of predicted TMRs: 1
+Ocbimv22009179m	outside	1	1				
+Ocbimv22009179m	TMhelix	2	12				
+Ocbimv22009179m	inside	13	315				
+# Ocbimv22024899m Length: 346
+# Ocbimv22024899m Number of predicted TMRs: 0
+Ocbimv22024899m	inside	1	346				
+# Ocbimv22004342m Length: 512
+# Ocbimv22004342m Number of predicted TMRs: 7
+Ocbimv22004342m	outside	1	121				
+Ocbimv22004342m	TMhelix	122	142				
+Ocbimv22004342m	inside	143	156				
+Ocbimv22004342m	TMhelix	157	177				
+Ocbimv22004342m	outside	178	191				
+Ocbimv22004342m	TMhelix	192	205				
+Ocbimv22004342m	inside	206	255				
+Ocbimv22004342m	TMhelix	256	270				
+Ocbimv22004342m	outside	271	288				
+Ocbimv22004342m	TMhelix	289	309				
+Ocbimv22004342m	inside	310	324				
+Ocbimv22004342m	TMhelix	325	345				
+Ocbimv22004342m	outside	346	369				
+Ocbimv22004342m	TMhelix	370	388				
+Ocbimv22004342m	inside	389	512				
+# Ocbimv22030645m Length: 882
+# Ocbimv22030645m Number of predicted TMRs: 0
+Ocbimv22030645m	outside	1	882				
+# Ocbimv22022071m Length: 459
+# Ocbimv22022071m Number of predicted TMRs: 4
+Ocbimv22022071m	inside	1	22				
+Ocbimv22022071m	TMhelix	23	42				
+Ocbimv22022071m	outside	43	152				
+Ocbimv22022071m	TMhelix	153	173				
+Ocbimv22022071m	inside	174	179				
+Ocbimv22022071m	TMhelix	180	200				
+Ocbimv22022071m	outside	201	328				
+Ocbimv22022071m	TMhelix	329	347				
+Ocbimv22022071m	inside	348	459				
+# Ocbimv22025704m Length: 1331
+# Ocbimv22025704m Number of predicted TMRs: 0
+Ocbimv22025704m	inside	1	1331				
+# Ocbimv22013995m Length: 259
+# Ocbimv22013995m Number of predicted TMRs: 0
+Ocbimv22013995m	inside	1	259				
+# Ocbimv22015439m Length: 237
+# Ocbimv22015439m Number of predicted TMRs: 6
+Ocbimv22015439m	inside	1	1				
+Ocbimv22015439m	TMhelix	2	16				
+Ocbimv22015439m	outside	17	18				
+Ocbimv22015439m	TMhelix	19	37				
+Ocbimv22015439m	inside	38	43				
+Ocbimv22015439m	TMhelix	44	67				
+Ocbimv22015439m	outside	68	118				
+Ocbimv22015439m	TMhelix	119	139				
+Ocbimv22015439m	inside	140	168				
+Ocbimv22015439m	TMhelix	169	190				
+Ocbimv22015439m	outside	191	193				
+Ocbimv22015439m	TMhelix	194	214				
+Ocbimv22015439m	inside	215	237				
+# Ocbimv22035248m Length: 689
+# Ocbimv22035248m Number of predicted TMRs: 0
+Ocbimv22035248m	inside	1	689				
+# Ocbimv22039011m Length: 852
+# Ocbimv22039011m Number of predicted TMRs: 0
+Ocbimv22039011m	inside	1	852				
+# Ocbimv22010114m Length: 1652
+# Ocbimv22010114m Number of predicted TMRs: 6
+Ocbimv22010114m	inside	1	820				
+Ocbimv22010114m	TMhelix	821	841				
+Ocbimv22010114m	outside	842	850				
+Ocbimv22010114m	TMhelix	851	871				
+Ocbimv22010114m	inside	872	887				
+Ocbimv22010114m	TMhelix	888	908				
+Ocbimv22010114m	outside	909	917				
+Ocbimv22010114m	TMhelix	918	938				
+Ocbimv22010114m	inside	939	954				
+Ocbimv22010114m	TMhelix	955	971				
+Ocbimv22010114m	outside	972	1022				
+Ocbimv22010114m	TMhelix	1023	1043				
+Ocbimv22010114m	inside	1044	1652				
+# Ocbimv22019800m Length: 445
+# Ocbimv22019800m Number of predicted TMRs: 0
+Ocbimv22019800m	inside	1	445				
+# Ocbimv22013687m Length: 303
+# Ocbimv22013687m Number of predicted TMRs: 0
+Ocbimv22013687m	inside	1	303				
+# Ocbimv22007006m Length: 4735
+# Ocbimv22007006m Number of predicted TMRs: 0
+Ocbimv22007006m	inside	1	4735				
+# Ocbimv22021507m Length: 331
+# Ocbimv22021507m Number of predicted TMRs: 0
+Ocbimv22021507m	inside	1	331				
+# Ocbimv22010888m Length: 1196
+# Ocbimv22010888m Number of predicted TMRs: 0
+Ocbimv22010888m	outside	1	1196				
+# Ocbimv22025857m Length: 459
+# Ocbimv22025857m Number of predicted TMRs: 1
+Ocbimv22025857m	inside	1	8				
+Ocbimv22025857m	TMhelix	9	25				
+Ocbimv22025857m	outside	26	459				
+# Ocbimv22036528m Length: 1357
+# Ocbimv22036528m Number of predicted TMRs: 1
+Ocbimv22036528m	outside	1	1194				
+Ocbimv22036528m	TMhelix	1195	1216				
+Ocbimv22036528m	inside	1217	1357				
+# Ocbimv22036546m Length: 379
+# Ocbimv22036546m Number of predicted TMRs: 4
+Ocbimv22036546m	inside	1	39				
+Ocbimv22036546m	TMhelix	40	60				
+Ocbimv22036546m	outside	61	165				
+Ocbimv22036546m	TMhelix	166	186				
+Ocbimv22036546m	inside	187	273				
+Ocbimv22036546m	TMhelix	274	294				
+Ocbimv22036546m	outside	295	335				
+Ocbimv22036546m	TMhelix	336	356				
+Ocbimv22036546m	inside	357	379				
+# Ocbimv22023609m Length: 523
+# Ocbimv22023609m Number of predicted TMRs: 0
+Ocbimv22023609m	outside	1	523				
+# Ocbimv22008246m Length: 735
+# Ocbimv22008246m Number of predicted TMRs: 6
+Ocbimv22008246m	inside	1	484				
+Ocbimv22008246m	TMhelix	485	503				
+Ocbimv22008246m	outside	504	514				
+Ocbimv22008246m	TMhelix	515	535				
+Ocbimv22008246m	inside	536	564				
+Ocbimv22008246m	TMhelix	565	583				
+Ocbimv22008246m	outside	584	591				
+Ocbimv22008246m	TMhelix	592	613				
+Ocbimv22008246m	inside	614	620				
+Ocbimv22008246m	TMhelix	621	641				
+Ocbimv22008246m	outside	642	705				
+Ocbimv22008246m	TMhelix	706	725				
+Ocbimv22008246m	inside	726	735				
+# Ocbimv22015285m Length: 970
+# Ocbimv22015285m Number of predicted TMRs: 0
+Ocbimv22015285m	inside	1	970				
+# Ocbimv22012646m Length: 400
+# Ocbimv22012646m Number of predicted TMRs: 0
+Ocbimv22012646m	inside	1	400				
+# Ocbimv22016974m Length: 301
+# Ocbimv22016974m Number of predicted TMRs: 0
+Ocbimv22016974m	inside	1	301				
+# Ocbimv22026382m Length: 1684
+# Ocbimv22026382m Number of predicted TMRs: 1
+Ocbimv22026382m	outside	1	926				
+Ocbimv22026382m	TMhelix	927	947				
+Ocbimv22026382m	inside	948	1684				
+# Ocbimv22036000m Length: 644
+# Ocbimv22036000m Number of predicted TMRs: 0
+Ocbimv22036000m	inside	1	644				
+# Ocbimv22028095m Length: 978
+# Ocbimv22028095m Number of predicted TMRs: 1
+Ocbimv22028095m	inside	1	23				
+Ocbimv22028095m	TMhelix	24	43				
+Ocbimv22028095m	outside	44	978				
+# Ocbimv22036305m Length: 2211
+# Ocbimv22036305m Number of predicted TMRs: 0
+Ocbimv22036305m	inside	1	2211				
+# Ocbimv22020488m Length: 183
+# Ocbimv22020488m Number of predicted TMRs: 2
+Ocbimv22020488m	inside	1	24				
+Ocbimv22020488m	TMhelix	25	45				
+Ocbimv22020488m	outside	46	164				
+Ocbimv22020488m	TMhelix	165	179				
+Ocbimv22020488m	inside	180	183				
+# Ocbimv22029514m Length: 631
+# Ocbimv22029514m Number of predicted TMRs: 0
+Ocbimv22029514m	inside	1	631				
+# Ocbimv22038005m Length: 3004
+# Ocbimv22038005m Number of predicted TMRs: 0
+Ocbimv22038005m	inside	1	3004				
+# Ocbimv22028349m Length: 2071
+# Ocbimv22028349m Number of predicted TMRs: 0
+Ocbimv22028349m	inside	1	2071				
+# Ocbimv22000361m Length: 339
+# Ocbimv22000361m Number of predicted TMRs: 0
+Ocbimv22000361m	inside	1	339				
+# Ocbimv22034411m Length: 867
+# Ocbimv22034411m Number of predicted TMRs: 0
+Ocbimv22034411m	inside	1	867				
+# Ocbimv22033563m Length: 1279
+# Ocbimv22033563m Number of predicted TMRs: 0
+Ocbimv22033563m	inside	1	1279				
+# Ocbimv22037578m Length: 443
+# Ocbimv22037578m Number of predicted TMRs: 0
+Ocbimv22037578m	outside	1	443				
+# Ocbimv22002829m Length: 1638
+# Ocbimv22002829m Number of predicted TMRs: 1
+Ocbimv22002829m	inside	1	1077				
+Ocbimv22002829m	TMhelix	1078	1087				
+Ocbimv22002829m	outside	1088	1638				
+# Ocbimv22001305m Length: 1394
+# Ocbimv22001305m Number of predicted TMRs: 1
+Ocbimv22001305m	outside	1	1201				
+Ocbimv22001305m	TMhelix	1202	1226				
+Ocbimv22001305m	inside	1227	1394				
+# Ocbimv22031381m Length: 311
+# Ocbimv22031381m Number of predicted TMRs: 2
+Ocbimv22031381m	inside	1	18				
+Ocbimv22031381m	TMhelix	19	40				
+Ocbimv22031381m	outside	41	269				
+Ocbimv22031381m	TMhelix	270	290				
+Ocbimv22031381m	inside	291	311				
+# Ocbimv22014525m Length: 1128
+# Ocbimv22014525m Number of predicted TMRs: 0
+Ocbimv22014525m	inside	1	1128				
+# Ocbimv22006169m Length: 422
+# Ocbimv22006169m Number of predicted TMRs: 1
+Ocbimv22006169m	signal	1	36				
+Ocbimv22006169m	outside	37	207				
+Ocbimv22006169m	TMhelix	208	228				
+Ocbimv22006169m	inside	229	422				
+# Ocbimv22029050m Length: 662
+# Ocbimv22029050m Number of predicted TMRs: 0
+Ocbimv22029050m	inside	1	662				
+# Ocbimv22025977m Length: 485
+# Ocbimv22025977m Number of predicted TMRs: 0
+Ocbimv22025977m	inside	1	485				
+# Ocbimv22002537m Length: 847
+# Ocbimv22002537m Number of predicted TMRs: 10
+Ocbimv22002537m	inside	1	240				
+Ocbimv22002537m	TMhelix	241	261				
+Ocbimv22002537m	outside	262	287				
+Ocbimv22002537m	TMhelix	288	305				
+Ocbimv22002537m	inside	306	363				
+Ocbimv22002537m	TMhelix	364	385				
+Ocbimv22002537m	outside	386	402				
+Ocbimv22002537m	TMhelix	403	423				
+Ocbimv22002537m	inside	424	447				
+Ocbimv22002537m	TMhelix	448	468				
+Ocbimv22002537m	outside	469	479				
+Ocbimv22002537m	TMhelix	480	500				
+Ocbimv22002537m	inside	501	630				
+Ocbimv22002537m	TMhelix	631	640				
+Ocbimv22002537m	outside	641	641				
+Ocbimv22002537m	TMhelix	642	651				
+Ocbimv22002537m	inside	652	683				
+Ocbimv22002537m	TMhelix	684	702				
+Ocbimv22002537m	outside	703	718				
+Ocbimv22002537m	TMhelix	719	736				
+Ocbimv22002537m	inside	737	847				
+# Ocbimv22012725m Length: 410
+# Ocbimv22012725m Number of predicted TMRs: 0
+Ocbimv22012725m	inside	1	410				
+# Ocbimv22031022m Length: 873
+# Ocbimv22031022m Number of predicted TMRs: 0
+Ocbimv22031022m	inside	1	873				
+# Ocbimv22035883m Length: 323
+# Ocbimv22035883m Number of predicted TMRs: 7
+Ocbimv22035883m	outside	1	9				
+Ocbimv22035883m	TMhelix	10	30				
+Ocbimv22035883m	inside	31	41				
+Ocbimv22035883m	TMhelix	42	64				
+Ocbimv22035883m	outside	65	80				
+Ocbimv22035883m	TMhelix	81	102				
+Ocbimv22035883m	inside	103	123				
+Ocbimv22035883m	TMhelix	124	145				
+Ocbimv22035883m	outside	146	167				
+Ocbimv22035883m	TMhelix	168	188				
+Ocbimv22035883m	inside	189	218				
+Ocbimv22035883m	TMhelix	219	238				
+Ocbimv22035883m	outside	239	253				
+Ocbimv22035883m	TMhelix	254	276				
+Ocbimv22035883m	inside	277	323				
+# Ocbimv22032337m Length: 6425
+# Ocbimv22032337m Number of predicted TMRs: 0
+Ocbimv22032337m	inside	1	6425				
+# Ocbimv22032326m Length: 1067
+# Ocbimv22032326m Number of predicted TMRs: 0
+Ocbimv22032326m	inside	1	1067				
+# Ocbimv22020679m Length: 405
+# Ocbimv22020679m Number of predicted TMRs: 0
+Ocbimv22020679m	inside	1	405				
+# Ocbimv22006496m Length: 547
+# Ocbimv22006496m Number of predicted TMRs: 2
+Ocbimv22006496m	inside	1	9				
+Ocbimv22006496m	TMhelix	10	28				
+Ocbimv22006496m	outside	29	30				
+Ocbimv22006496m	TMhelix	31	49				
+Ocbimv22006496m	inside	50	547				
+# Ocbimv22005614m Length: 250
+# Ocbimv22005614m Number of predicted TMRs: 0
+Ocbimv22005614m	inside	1	250				
+# Ocbimv22006113m Length: 251
+# Ocbimv22006113m Number of predicted TMRs: 0
+Ocbimv22006113m	inside	1	251				
+# Ocbimv22023633m Length: 690
+# Ocbimv22023633m Number of predicted TMRs: 0
+Ocbimv22023633m	signal	1	30				
+Ocbimv22023633m	outside	31	690				
+# Ocbimv22005001m Length: 74
+# Ocbimv22005001m Number of predicted TMRs: 2
+Ocbimv22005001m	inside	1	12				
+Ocbimv22005001m	TMhelix	13	29				
+Ocbimv22005001m	outside	30	38				
+Ocbimv22005001m	TMhelix	39	63				
+Ocbimv22005001m	inside	64	74				
+# Ocbimv22038812m Length: 455
+# Ocbimv22038812m Number of predicted TMRs: 1
+Ocbimv22038812m	signal	1	16				
+Ocbimv22038812m	outside	17	265				
+Ocbimv22038812m	TMhelix	266	287				
+Ocbimv22038812m	inside	288	455				
+# Ocbimv22000737m Length: 259
+# Ocbimv22000737m Number of predicted TMRs: 1
+Ocbimv22000737m	inside	1	220				
+Ocbimv22000737m	TMhelix	221	241				
+Ocbimv22000737m	outside	242	259				
+# Ocbimv22024598m Length: 554
+# Ocbimv22024598m Number of predicted TMRs: 0
+Ocbimv22024598m	inside	1	554				
+# Ocbimv22018605m Length: 1790
+# Ocbimv22018605m Number of predicted TMRs: 0
+Ocbimv22018605m	inside	1	1790				
+# Ocbimv22035448m Length: 495
+# Ocbimv22035448m Number of predicted TMRs: 0
+Ocbimv22035448m	inside	1	495				
+# Ocbimv22001789m Length: 718
+# Ocbimv22001789m Number of predicted TMRs: 1
+Ocbimv22001789m	signal	1	23				
+Ocbimv22001789m	outside	24	645				
+Ocbimv22001789m	TMhelix	646	666				
+Ocbimv22001789m	inside	667	718				
+# Ocbimv22001790m Length: 352
+# Ocbimv22001790m Number of predicted TMRs: 4
+Ocbimv22001790m	inside	1	252				
+Ocbimv22001790m	TMhelix	253	262				
+Ocbimv22001790m	outside	263	263				
+Ocbimv22001790m	TMhelix	264	273				
+Ocbimv22001790m	inside	274	307				
+Ocbimv22001790m	TMhelix	308	318				
+Ocbimv22001790m	outside	319	319				
+Ocbimv22001790m	TMhelix	320	329				
+Ocbimv22001790m	inside	330	352				
+# Ocbimv22017897m Length: 1378
+# Ocbimv22017897m Number of predicted TMRs: 1
+Ocbimv22017897m	outside	1	753				
+Ocbimv22017897m	TMhelix	754	774				
+Ocbimv22017897m	inside	775	1378				
+# Ocbimv22032189m Length: 401
+# Ocbimv22032189m Number of predicted TMRs: 0
+Ocbimv22032189m	inside	1	401				
+# Ocbimv22009663m Length: 377
+# Ocbimv22009663m Number of predicted TMRs: 0
+Ocbimv22009663m	inside	1	377				
+# Ocbimv22009661m Length: 564
+# Ocbimv22009661m Number of predicted TMRs: 0
+Ocbimv22009661m	inside	1	564				
+# Ocbimv22033549m Length: 849
+# Ocbimv22033549m Number of predicted TMRs: 1
+Ocbimv22033549m	signal	1	10				
+Ocbimv22033549m	outside	11	679				
+Ocbimv22033549m	TMhelix	680	700				
+Ocbimv22033549m	inside	701	849				
+# Ocbimv22037222m Length: 805
+# Ocbimv22037222m Number of predicted TMRs: 2
+Ocbimv22037222m	inside	1	110				
+Ocbimv22037222m	TMhelix	111	120				
+Ocbimv22037222m	outside	121	489				
+Ocbimv22037222m	TMhelix	490	510				
+Ocbimv22037222m	inside	511	805				
+# Ocbimv22004255m Length: 432
+# Ocbimv22004255m Number of predicted TMRs: 0
+Ocbimv22004255m	inside	1	432				
+# Ocbimv22036013m Length: 312
+# Ocbimv22036013m Number of predicted TMRs: 0
+Ocbimv22036013m	outside	1	312				
+# Ocbimv22026887m Length: 212
+# Ocbimv22026887m Number of predicted TMRs: 0
+Ocbimv22026887m	inside	1	212				
+# Ocbimv22001062m Length: 302
+# Ocbimv22001062m Number of predicted TMRs: 0
+Ocbimv22001062m	inside	1	302				
+# Ocbimv22002105m Length: 542
+# Ocbimv22002105m Number of predicted TMRs: 2
+Ocbimv22002105m	inside	1	14				
+Ocbimv22002105m	TMhelix	15	34				
+Ocbimv22002105m	outside	35	502				
+Ocbimv22002105m	TMhelix	503	523				
+Ocbimv22002105m	inside	524	542				
+# Ocbimv22023964m Length: 1655
+# Ocbimv22023964m Number of predicted TMRs: 1
+Ocbimv22023964m	outside	1	1020				
+Ocbimv22023964m	TMhelix	1021	1041				
+Ocbimv22023964m	inside	1042	1655				
+# Ocbimv22010553m Length: 448
+# Ocbimv22010553m Number of predicted TMRs: 4
+Ocbimv22010553m	signal	1	30				
+Ocbimv22010553m	outside	31	241				
+Ocbimv22010553m	TMhelix	242	266				
+Ocbimv22010553m	inside	267	272				
+Ocbimv22010553m	TMhelix	273	290				
+Ocbimv22010553m	outside	291	302				
+Ocbimv22010553m	TMhelix	303	321				
+Ocbimv22010553m	inside	322	420				
+Ocbimv22010553m	TMhelix	421	442				
+Ocbimv22010553m	outside	443	448				
+# Ocbimv22002252m Length: 684
+# Ocbimv22002252m Number of predicted TMRs: 12
+Ocbimv22002252m	inside	1	17				
+Ocbimv22002252m	TMhelix	18	39				
+Ocbimv22002252m	outside	40	54				
+Ocbimv22002252m	TMhelix	55	73				
+Ocbimv22002252m	inside	74	84				
+Ocbimv22002252m	TMhelix	85	105				
+Ocbimv22002252m	outside	106	143				
+Ocbimv22002252m	TMhelix	144	164				
+Ocbimv22002252m	inside	165	181				
+Ocbimv22002252m	TMhelix	182	201				
+Ocbimv22002252m	outside	202	231				
+Ocbimv22002252m	TMhelix	232	241				
+Ocbimv22002252m	inside	242	242				
+Ocbimv22002252m	TMhelix	243	252				
+Ocbimv22002252m	outside	253	378				
+Ocbimv22002252m	TMhelix	379	394				
+Ocbimv22002252m	inside	395	410				
+Ocbimv22002252m	TMhelix	411	428				
+Ocbimv22002252m	outside	429	534				
+Ocbimv22002252m	TMhelix	535	551				
+Ocbimv22002252m	inside	552	568				
+Ocbimv22002252m	TMhelix	569	590				
+Ocbimv22002252m	outside	591	619				
+Ocbimv22002252m	TMhelix	620	640				
+Ocbimv22002252m	inside	641	684				
+# Ocbimv22023982m Length: 811
+# Ocbimv22023982m Number of predicted TMRs: 1
+Ocbimv22023982m	signal	1	25				
+Ocbimv22023982m	outside	26	695				
+Ocbimv22023982m	TMhelix	696	716				
+Ocbimv22023982m	inside	717	811				
+# Ocbimv22009185m Length: 911
+# Ocbimv22009185m Number of predicted TMRs: 1
+Ocbimv22009185m	signal	1	22				
+Ocbimv22009185m	outside	23	860				
+Ocbimv22009185m	TMhelix	861	881				
+Ocbimv22009185m	inside	882	911				
+# Ocbimv22003835m Length: 1106
+# Ocbimv22003835m Number of predicted TMRs: 0
+Ocbimv22003835m	inside	1	1106				
+# Ocbimv22004242m Length: 749
+# Ocbimv22004242m Number of predicted TMRs: 0
+Ocbimv22004242m	inside	1	749				
