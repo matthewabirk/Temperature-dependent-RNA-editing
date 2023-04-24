@@ -116,6 +116,16 @@ subset(tmp, p_adj < 0.05)
 
 
 
+t.test(x = filter(inter1, type == 'warm')$blosum,
+			 y = filter(inter1, type == 'insen')$blosum,
+			 var.equal = TRUE)$p.value * 3
+t.test(x = filter(inter1, type == 'warm')$blosum,
+			 y = filter(inter1, type == 'cold')$blosum,
+			 var.equal = TRUE)$p.value * 3
+t.test(x = filter(inter1, type == 'insen')$blosum,
+			 y = filter(inter1, type == 'cold')$blosum,
+			 var.equal = TRUE)$p.value * 3
+
 
 
 # Polarity groups ---------------------------------------------------------
