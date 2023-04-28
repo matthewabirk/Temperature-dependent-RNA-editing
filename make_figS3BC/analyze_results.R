@@ -110,7 +110,7 @@ gg_gen = gg +
 
 cowplot::plot_grid(gg_gen, gg_trans, labels = 'AUTO')
 
-ggsave('../FigS6.pdf', width = 6, height = 6)
+ggsave('../FigS3BC.pdf', width = 6, height = 6)
 
 # notice that RNA tends to have lower G in the cold than warm regardless of category
 

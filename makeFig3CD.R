@@ -1,4 +1,4 @@
-# Makes Fig3C,D, Fig4B, and Fig5B
+# Makes Fig3C,D
 
 
 library(dplyr)
@@ -123,18 +123,12 @@ t.test(x = filter(exp_comp, temp == 'warm', exp == '4 day')$mean_EL,
 
 
 
-#tmp1 = lmer(EL_adj ~ temp + (1 | ES), data = exp_comp, REML = FALSE)
-#tmp2 = lmer(EL_adj ~ exp + temp + (1 | ES), data = exp_comp, REML = FALSE)
-#anova(tmp1, tmp2)
-
-
-
 
 
 
 # T-tests to compare editing levels ---------------------------------------
 
-dt = subset(dt_all, dT == 'WC') # run this as CW to get Fig3D
+dt = subset(dt_all, dT == 'CW') # run this as CW to get Fig3D
 
 tmp = dt %>% group_by(ES, temp_dur) %>% summarise(mean_EL = mean(EL))
 tmp4 = list()
@@ -155,11 +149,13 @@ write.table(tmp4, file = paste0('tableS5', unique(dt$dT), '.txt'), row.names = F
 
 tmp5 = dt %>% group_by(temp_dur) %>% summarise(EL = mean(EL)) # average EL pooling all ESs
 tmp6 = longterm %>% filter(temp == ifelse(unique(dt$dT) == 'CW', 'warm', 'cold')) %>% group_by(ES) %>% summarise(EL = mean(EL_adj) * 100) 
+tmp7 = dt %>% group_by(temp_dur, ES) %>% summarise(EL = mean(EL)) # average EL pooling all ESs
 
 ggplot(dt,aes(temp_dur, EL, col = ES)) +
 	geom_rect(xmin = -20, xmax = 0, ymin = 0, ymax = 100, fill = 'lightgrey', color = 'lightgrey') +
 	geom_point() +
-	geom_line(data = tmp5, aes(temp_dur, EL), inherit.aes = FALSE) +
+	geom_line(data = tmp7, aes(temp_dur, EL, col = ES), inherit.aes = FALSE) +
+	geom_line(data = tmp5, aes(temp_dur, EL), lwd = 2, inherit.aes = FALSE) +
 	geom_point(data = tmp6, aes(x = 100, y = EL), shape = 4) +
 	labs(x = 'Time since temperature change (hr)', y = '% editing') +
 	scale_x_continuous(breaks = c(0, unique(dt$temp_dur))) +
@@ -167,45 +163,6 @@ ggplot(dt,aes(temp_dur, EL, col = ES)) +
 	scale_color_discrete(guide = 'none')
 
 ggsave(paste0('fig3_', unique(dt$dT), '.pdf'), width = 4.6, height = 4.4)
-
-
-
-
-
-# # Fit linear mixed effects model ------------------------------------------
-# 
-# 
-# library(lme4)
-# 
-# dt = subset(dt_all, dT == 'WC') # run this as CW to get Fig3D
-# 
-# dt$temp_dur_fact = factor(dt$temp_dur)
-# 
-# null4 = lmer(formula = EL ~ (1 + temp_dur_fact|ES), data = dt, REML = TRUE)
-# mod4 = lmer(formula = EL ~ temp_dur_fact + (1 + temp_dur_fact|ES), data = dt, REML = TRUE) # random intercepts and slope: each ES has different baseline and temporal slope. Duration is a factor for posthoc testing
-# anova(null4, mod4)
-# 
-# library(multcomp)
-# posthoc = glht(mod4, linfct = mcp(temp_dur_fact = 'Tukey')) # Tukey means do pair-wise comparison. Not applying Tukey adjustment of p value
-# summary(posthoc, test = adjusted('holm'))
-# cld(posthoc)
-# 
-# dt$mod4 = predict(mod4)
-# tmp = dt %>% group_by(temp_dur) %>% summarise(EL = mean(EL)) # average EL pooling all ESs
-# tmp2 = longterm %>% filter(temp == 'cold') %>% group_by(ES) %>% summarise(EL = mean(EL_adj) * 100) 
-# 
-# ggplot(dt,aes(temp_dur, EL, group = ES, col = ES)) + # see why posthoc mod4 is so significant
-# 	geom_rect(xmin = -20, xmax = 0, ymin = 0, ymax = 100, fill = 'lightgrey', color = 'lightgrey') +
-# 	geom_line(aes(y = mod4), lty = 1) +
-# 	geom_point() +
-# 	geom_line(data = tmp, aes(temp_dur, EL), inherit.aes = FALSE, lwd = 2) +
-# 	geom_point(data = tmp2, aes(x = 100, y = EL), shape = 4) +
-# 	labs(x = 'Time since temperature change (hr)', y = '% editing') +
-# 	scale_x_continuous(breaks = c(0, as.numeric(levels(dt$temp_dur_fact)))) +
-# 	theme_classic() +
-# 	scale_color_discrete(guide = 'none')
-# 
-# ggsave(paste0('fig3_', unique(dt$dT), '.pdf'), width = 4.6, height = 4.4)
 
 
 
@@ -232,33 +189,4 @@ ggplot(d[d$apriori_temp_sensitive, ], aes(temp_dur, EL)) +
 	theme(legend.position = 'top')
 ggsave(filename = 'amplicon_timecourse.pdf', width = 8.6, height = 6)
 
-
-
-
-
-
-
-# Make Figs 4B and 5B -----------------------------------------------------
-
-
-
-c('KHC_845', 'Syt_742')
-d_soi = subset(d, ES %in% c('KHC_845'))
-long_soi = subset(long, ES %in% unique(d_soi$ES))
-
-d_soi$dT = ifelse(d_soi$dT == 'CW', '14 -> 24°C', '24 -> 14°C')
-
-ggplot(d_soi, aes(temp_dur, EL)) +
-	geom_rect(xmin = -20, xmax = 0, ymin = 0, ymax = 100, fill = 'lightgrey', color = 'lightgrey') +
-	geom_segment(data = long_soi, aes(x = -20, xend = 96, y = EL_cold, yend = EL_cold), linetype = 3, color = scales::hue_pal()(2)[2]) +
-	geom_segment(data = long_soi, aes(x = -20, xend = 96, y = EL_warm, yend = EL_warm), linetype = 3, color = scales::hue_pal()(2)[1]) +
-	geom_point(aes(color = dT)) +
-	geom_linerange(aes(x = temp_dur, ymin = min_EL, ymax = max_EL, color = dT)) +
-	labs(x = 'Hours since end of temperature change', y = '% editing', color = NULL) +
-	theme_classic() +
-	geom_smooth(aes(color = dT), method = 'loess', span = 1.5, se = FALSE) +
-	scale_x_continuous(breaks = sort(unique(d[d$apriori_temp_sensitive, ]$temp_dur))) +
-	theme(legend.position = 'top')
-ggsave(filename = 'KHC_amplicon.pdf', width = 3.2, height = 3)
-ggsave(filename = 'Syt_amplicon.pdf', width = 3.2, height = 3)
 

@@ -1,1 +1,3 @@
 This repository contains the code and original data behind "Temperature-dependent RNA editing in octopus extensively recodes the neural proteome" by Birk et al. Most figures in the paper can be reproduced here.
+
+To recreate most figures, choose the relevant file as named. See create data_objects.R for the code to create the data_objects.Rdata file.

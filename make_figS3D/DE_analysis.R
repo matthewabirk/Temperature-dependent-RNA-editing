@@ -197,4 +197,4 @@ ggplot(SOIs, aes(log2FoldChange, padj, alpha = alpha, color = db_origin)) +
 	labs(x = 'log2-fold change from warm to cold', y = 'Adjusted p-value', color = 'Source') +
 	theme(legend.position = c(0.3, 0.75))
 
-ggsave('../figS7.pdf', width = 3.5, height = 3)
+ggsave('../figS3D.pdf', width = 3.5, height = 3)

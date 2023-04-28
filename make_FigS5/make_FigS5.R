@@ -66,7 +66,7 @@ ggplot(hobo_compare, aes(local_time, T, color = site)) +
 
 
 
-ggsave('../../figS4.pdf', width = 7.5, height = 3.5)
+ggsave('../../figS5.pdf', width = 7.5, height = 3.5)
 
 with(hobo_compare, tapply(T, site, mean))
 with(hobo, tapply(T, site, mean))

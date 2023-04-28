@@ -1,23 +1,26 @@
-library(ggplot2)
+d = readxl::read_xlsx('Data/ADAR_Salmon_Temp2.xlsx')
 
-# KHC multiple alignment --------------------------------------------------
+d[which(d$Enzyme == 'ADAR2b'), 'Enzyme'] = 'ADAR2'
 
-khc_align = seqinr::read.fasta('Data/multiple alignment of Kinesin heavy chain - Ocbimv22000619m - top 250.fa', seqtype = 'AA', as.string = TRUE)
+d[grep('Cold', d$Sample), 'temp'] = 13
+d[grep('Warm', d$Sample), 'temp'] = 22
 
-library(stringr)
-str_split_list = function(string,size){
-	str_extract_all(string, paste0('.{1,',size,'}'))
-}
+d$temp = as.factor(d$temp)
 
-inter1 = sapply(khc_align, function(i) str_split_list(i, 25))
-inter2 = lapply(1:unique(sapply(inter1, length)), function(i){
-	as.character(sapply(inter1, function(j) j[i]))
-})
+library(ggplot2); library(ggsignif)
+theme_set(theme_bw())
 
+ggplot(d, aes(temp, TPM, fill = temp)) +
+	geom_boxplot() +
+	geom_point(shape = 21) +
+	geom_signif(comparisons = list(1:2), test = 't.test', test.args = list(var.equal = TRUE), map_signif_level = c('****' = 0.0001, '***' = 0.001, '**' = 0.01, '*' = 0.05), color = 'black', textsize = 2.5) +
+	scale_y_continuous(limits = c(0, NA)) +
+	facet_wrap(~Enzyme, scales = 'free_y') +
+	labs(x = expression(Temperature~(degree*C)), y = 'Transcripts per million (TPM)') +
+	scale_fill_manual(values = c('#4385FF', '#FF654B')) +
+	theme(legend.position = 'none')
 
+summary(lm(TPM ~ temp, data = subset(d, Enzyme == 'ADAR1')))
+summary(lm(TPM ~ temp, data = subset(d, Enzyme == 'ADAR2')))
 
-ggseqlogo::ggseqlogo(inter2[[ceiling(539/25)]], method = 'prob') +
-	annotate('rect', xmin = 13.5, xmax = 14.5, ymin = -0.1, ymax = 1.1, alpha = 0.1, col = 'black', fill = 'yellow') +
-	ggtitle('Alignment of top 250 matches to Ocbimv22000619m (cephs to mammals)\nMotor domain site')
-
-ggsave('figS3A.pdf', width = 8, height = 3)
+ggsave('FigS3A.pdf', width = 3.5, height = 3)
