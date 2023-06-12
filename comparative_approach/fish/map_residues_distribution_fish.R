@@ -31,7 +31,7 @@ ggsave('XXX.pdf', width = 8, height = 3)
 
 library(rgbif)
 GBIF_USER = "matthewabirk"
-GBIF_PWD = "b7umd9DZfJ5j2Uk"
+GBIF_PWD = "XXX"
 GBIF_EMAIL = "matthewabirk@gmail.com"
 
 
